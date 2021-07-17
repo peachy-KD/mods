@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<SonicClassic.prm.xml>
+  <Common>
+    <Category>
+      <Spin>
+        <Param>
+          <SpinVelocityWithCharge>55</SpinVelocityWithCharge>
+        </Param>
+      </Spin>
+      <SpinAttack>
+        <Param>
+          <SpinAttackAfterUpVelocity>17.5</SpinAttackAfterUpVelocity>
+        </Param>
+      </SpinAttack>
+    </Category>
+  </Common>
+  <SideView>
+    <Category>
+      <Brake>
+        <Param>
+          <BrakeForce>65</BrakeForce>
+          <BrakeLargeSpeed>40</BrakeLargeSpeed>
+        </Param>
+      </Brake>
+      <Jump>
+        <Param>
+          <JumpPower>15.0</JumpPower>
+        </Param>
+      </Jump>
+      <Velocity>
+        <Param>
+          <DecelerationForceHigh>12</DecelerationForceHigh>
+          <DecelerationForceLow>9</DecelerationForceLow>
+          <MaxVelocityBasis>25</MaxVelocityBasis>
+        </Param>
+      </Velocity>
+    </Category>
+  </SideView>
+</SonicClassic.prm.xml>

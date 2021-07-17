@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Sonic.prm.xml>
+  <Common>
+    <Category>
+      <Drift>
+        <Param>
+          <BorderTimeOfBrakeCancelForStartDrift>0.25</BorderTimeOfBrakeCancelForStartDrift>
+          <DriftAngleReturnForce>5.1</DriftAngleReturnForce>
+          <DriftAngleReturnForceLowSpeed>4.18998</DriftAngleReturnForceLowSpeed>
+          <DriftBoostYawOffset>20</DriftBoostYawOffset>
+          <DriftDecVelocityFirst>20</DriftDecVelocityFirst>
+          <DriftDecVelocityFirstLowSpeed>20</DriftDecVelocityFirstLowSpeed>
+          <DriftFailureAddVelocity>10</DriftFailureAddVelocity>
+          <DriftFinishAngle>35</DriftFinishAngle>
+          <DriftFinishSideVelocity>1.31</DriftFinishSideVelocity>
+          <DriftFinishVelocity>15</DriftFinishVelocity>
+          <DriftFrontAccelForceRate>1.5</DriftFrontAccelForceRate>
+          <DriftFrontAccelForceRateLowSpeed>6.7</DriftFrontAccelForceRateLowSpeed>
+          <DriftFrontAngleForce>1</DriftFrontAngleForce>
+          <DriftFrontAngleForceLowSpeed>3.1</DriftFrontAngleForceLowSpeed>
+          <DriftLowSpeedVelocityThreshold>60.1</DriftLowSpeedVelocityThreshold>
+          <DriftMaxAngleVelocity>1.32</DriftMaxAngleVelocity>
+          <DriftMaxAngleVelocityLowSpeed>0.800001</DriftMaxAngleVelocityLowSpeed>
+          <DriftSideAngleForce>1</DriftSideAngleForce>
+          <DriftSideAngleForceLowSpeed>12.41</DriftSideAngleForceLowSpeed>
+          <DriftSideDecForce>6.50001</DriftSideDecForce>
+          <DriftSideDecForceLowSpeed>14.32</DriftSideDecForceLowSpeed>
+          <DriftSuccessAddVelocity>65</DriftSuccessAddVelocity>
+          <StartDriftFromSlidingBorder>0.2</StartDriftFromSlidingBorder>
+          <StartDriftInputAngleBorder>50</StartDriftInputAngleBorder>
+          <StartDriftVelocityBorder>3.2</StartDriftVelocityBorder>
+        </Param>
+      </Drift>
+      <Physics>
+        <Param>
+          <BoostStrength>200</BoostStrength>
+          <CharProxySpeedThreshold>53.86</CharProxySpeedThreshold>
+          <CharProxyStaticFriction>0.110001</CharProxyStaticFriction>
+          <NormalStrength>100</NormalStrength>
+          <StompingStrength>200</StompingStrength>
+        </Param>
+      </Physics>
+    </Category>
+  </Common>
+</Sonic.prm.xml>
