@@ -1,0 +1,24 @@
+Descriptions of each xml file as well as their use in the mod.
+
+"Crisis City 2 setdase_base.set.xml" - Placement of objects for Crisis City Act 2. This file is located in "disk\bb2.cpk\#csc200.ar.00".
+* For the mod, I removed the autorun trigger from the first loop in Crisis City to prevent a softlock that can occur.
+
+"Generations hardcoded [...]" - Parameter values for Sonic's physics from the Sonic Generations .exe. These were saved using Skyth's parameter editor (link: https://gamebanana.com/mods/50769).
+* Across shared parameters, all but 2 values (and a section unused(?) in Generations, "BigChaser") are exactly the same as Unleashed, but there were just a few adjustments needed to be made to some of the unique-to-Generations parameters make them more similar as well as to not break the base game. This is why, in the mod, the "prm.xml" files in "#Sonic(Classic).ar.00" are relatively vacant; any parameter that isn't specified is already set to these values.
+* The 2 differing values are "SpinAttackAfterUpVelocity" which is 17.5 in Unleashed and "DamageMoveScale" which is 2. The latter value is not included in the mod because, oddly, it sends Sonic way too far upon getting hit in Generations. I instead left it at the hardcoded value (0.04).
+
+"Generations Demo 1 [...]" - Parameter values for Sonic's physics from the 30-day demo of Sonic Generations. These .xml files are located in "disk\bb.cpk\#Sonic(Classic).ar.00".
+* I initially had these to compare just out of curiosity, but there was actually one parameter value I ended up using in the mod. "StartTimeToCountdown", which is 18 here, indicates how many seconds it takes for the drowning countdown to begin. When that value is combined with the hardcoded amount of time Sonic can spend underwater (30 seconds; this is also the same in the Demo 1 files), the timing syncs up much better than in the final version of Generations. It's also more consistent with other Sonic games!
+* Curiously, Classic Sonic's file has the old "BigChaser" parameter values from Unleashed (this also applies to the final version).
+
+"Generations Final [...]" - Parameter values for Sonic's physics from the final version of Sonic Generations. These .xml files are located in "disk\bb3.cpk\#Sonic(Classic).ar.00".
+* Values from here are used to accommodate some situations introduced in Generations that were not in Unleashed, like being underwater or using Wisps.
+
+remaining files - These files override some of Sonic's physics in the final game during certain stages.
+Location for each:
+- Speed Highway 2 M1: "disk\bb.cpk\#sph201.ar.00"
+- VS Egg Dragoon: "disk\bb.cpk\#bne.ar.00"
+- VS Metal Sonic: "disk\bb2.cpk\#bms.ar.00"
+- VS Silver: "disk\bb2.cpk\#bsl.ar.00"
+- White Space: "disk\bb2.cpk\#pam000.ar.00"
+* For the mod, I (for the most part) removed any parameters that were the same as Unleashed's, Generations', or weren't used in Unleashed.
