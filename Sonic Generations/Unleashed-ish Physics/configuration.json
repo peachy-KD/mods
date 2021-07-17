@@ -1,0 +1,120 @@
+{
+   "Groups": [
+      {
+         "Name": "Main",
+         "DisplayName": "Options",
+         "Elements": [
+ 
+            {
+               "Name": "IncludeDir0",
+               "DisplayName": "Stage Set",
+               "Description": [
+                  "Indicate what stages you will be playing with the mod. (Unleashed Project and other stage mods must be downloaded separately.)",
+               ],
+               "Type": "StageOptions",
+		       "MinValue": null,
+		       "MaxValue": null,
+               "DefaultValue": "forGenerationsStages"
+            },
+
+            {
+               "Name": "IncludeDir1",
+               "DisplayName": "Homing Attack Button",
+               "Description": [
+                  "Choose whether Modern Sonic will have the Homing Attack mapped to the Jump button or the Boost button. (Note that the HedgeModManager 'Homing Attack on Boost' code by SWS90 will override this choice.)",
+               ],
+               "Type": "HomingOptions",
+		       "MinValue": null,
+		       "MaxValue": null,
+               "DefaultValue": "MPhysicsABH"
+            },
+
+            {
+               "Name": "IncludeDir2",
+               "DisplayName": "'Unleashed-ish' Classic Sonic Physics",
+               "Description": [
+                  "Choose whether or not to use the Classic Sonic physics changes.",
+               ],
+               "Type": "ClassicOptions",
+		       "MinValue": null,
+		       "MaxValue": null,
+               "DefaultValue": "CPhysics"
+            },
+
+         ]
+      }
+   ],
+   
+   "Enums": {
+
+      "StageOptions": [
+
+         {
+            "DisplayName": "Generations",
+            "Value": "forGenerationsStages",
+            "Description": [
+               "",
+            ]
+         },
+
+         {
+            "DisplayName": "Unleashed Project 1.0",
+            "Value": "forUnleashedProject",
+            "Description": [
+               "",
+            ]
+         },      
+
+         {
+            "DisplayName": "Other",
+            "Value": "dummy",
+            "Description": [
+               "",
+            ]
+         },
+
+      ],
+
+      "HomingOptions": [
+         
+         {
+            "DisplayName": "Jump",
+            "Value": "MPhysicsABH",
+            "Description": [
+               "",
+            ]
+         },
+
+         {
+            "DisplayName": "Boost",
+            "Value": "MPhysicsXBH",
+            "Description": [
+               "",
+            ]
+         },
+
+      ],
+
+      "ClassicOptions": [
+
+         {
+            "DisplayName": "Yes",
+            "Value": "CPhysics",
+            "Description": [
+               "",
+            ]
+         },
+         
+         {
+            "DisplayName": "No",
+            "Value": "dummy",
+            "Description": [
+               "",
+            ]
+         },
+
+      ],
+
+   },
+   "IniFile": "mod.ini"
+}
