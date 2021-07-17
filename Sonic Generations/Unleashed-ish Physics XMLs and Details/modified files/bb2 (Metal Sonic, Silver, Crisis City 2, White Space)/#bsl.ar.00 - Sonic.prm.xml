@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<Sonic.prm.xml>
+
+  <Common>
+    <Category>
+      <ChaosEnergy>
+        <Param>
+          <BoostTimeDecrease>7.0</BoostTimeDecrease>
+        </Param>
+      </ChaosEnergy>
+    </Category>
+  </Common>
+
+  <ForwardView>
+    <Category>
+      <AirBoost>
+        <Param>
+          <AirBoostLevitationForce>0.1</AirBoostLevitationForce>
+        </Param>
+      </AirBoost>
+      <Brake>
+        <Param>
+          <WalkBrakeForce>120</WalkBrakeForce>
+        </Param>
+      </Brake>
+      <HomingAttack>
+        <Param>
+          <HomingNoLockonKeepTime>0.24</HomingNoLockonKeepTime>
+          <HomingSpeed>110</HomingSpeed>
+          <HomingSpeedOfDummy>110</HomingSpeedOfDummy>
+        </Param>
+      </HomingAttack>
+    </Category>
+  </ForwardView>
+
+</Sonic.prm.xml>

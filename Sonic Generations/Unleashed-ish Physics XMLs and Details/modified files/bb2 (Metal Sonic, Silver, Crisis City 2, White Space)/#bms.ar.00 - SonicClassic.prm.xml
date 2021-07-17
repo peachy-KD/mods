@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<SonicClassic.prm.xml>
+  <Common>
+    <Category>
+      <Jump>
+        <Param>
+          <BallJumpAirDragRateScale>2.76</BallJumpAirDragRateScale>
+        </Param>
+      </Jump>
+    </Category>
+  </Common>
+  <SideView>
+    <Category>
+      <Velocity>
+        <Param>
+          <DecelerationForceHigh>2.5</DecelerationForceHigh>
+          <DecelerationForceLow>3.6</DecelerationForceLow>
+          <InAirForceAccelRate>2.64</InAirForceAccelRate>
+          <InAirForceBrakeRate>0.42</InAirForceBrakeRate>
+          <InAirForceDecRate>0.3</InAirForceDecRate>
+          <InAirMaxAccelVelocity>6.54</InAirMaxAccelVelocity>
+          <MaxUpVelocity>30.0</MaxUpVelocity>
+        </Param>
+      </Velocity>
+    </Category>
+  </SideView>
+</SonicClassic.prm.xml>
