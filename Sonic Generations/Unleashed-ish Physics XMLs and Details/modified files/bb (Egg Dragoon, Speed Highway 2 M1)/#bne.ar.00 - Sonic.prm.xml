@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<Sonic.prm.xml>
+
+  <Common>
+    <Category>
+      <ChaosEnergy>
+        <Param>
+          <BoostFirstDecrease>3.4</BoostFirstDecrease>
+          <BoostTimeDecrease>4.5</BoostTimeDecrease>
+        </Param>
+      </ChaosEnergy>
+      <Rotation>
+        <Param>
+          <RotationForce0>310</RotationForce0>
+          <RotationForce1>450</RotationForce1>
+          <RotationForce2>310</RotationForce2>
+          <RotationForceMinAngle>20.1</RotationForceMinAngle>
+          <RotationForceRateMin>0.3</RotationForceRateMin>
+        </Param>
+      </Rotation>
+    </Category>
+  </Common>
+
+  <ForwardView>
+    <Category>
+      <Jump>
+        <Param>
+          <JumpPower>19</JumpPower>
+        </Param>
+      </Jump>
+    </Category>
+  </ForwardView>
+
+</Sonic.prm.xml>
