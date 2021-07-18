@@ -1,1 +1,14 @@
-
+add CPhysics/disk/bb3/#SonicClassic.ar.00
+add CPhysics/disk/bb3/#SonicClassic.arl
+add MPhysicsABH/disk/bb3/#Sonic.ar.00
+add MPhysicsABH/disk/bb3/#Sonic.arl
+add MPhysicsXBH/disk/bb3/#Sonic.ar.00
+add MPhysicsXBH/disk/bb3/#Sonic.arl
+add forGenerationsStages/disk/bb2/#pam000.ar.00
+add forGenerationsStages/disk/bb2/#pam000.arl
+add forUnleashedProject/disk/bb2/#pam000.ar.00
+add forUnleashedProject/disk/bb2/#pam000.arl
+add forUnleashedProject/disk/bb3/#SonicClassic.ar.00
+add forUnleashedProject/disk/bb3/#SonicClassic.arl
+add readme.txt
+add mod.ini
