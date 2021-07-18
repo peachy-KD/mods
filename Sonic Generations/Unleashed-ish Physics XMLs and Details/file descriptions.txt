@@ -11,8 +11,6 @@ Descriptions of each xml file as well as their use in the mod.
 "Generations Final [...]" - Parameter values for Sonic's physics from the final version of Sonic Generations. These .xml files are located in "disk\bb3.cpk\#Sonic(Classic).ar.00".
 * Values from here are used to accommodate some situations introduced in Generations that were not in Unleashed, like being underwater or using Wisps.
 
-(for the remaining files, I've only included the modified versions here)
-
 "#csc200.ar.00 - setdase_base.set.xml" - Placement of objects for Crisis City Act 2. This file is located in "disk\bb2.cpk\#csc200.ar.00".
 * For the mod, I removed the autorun trigger from the loop to prevent a softlock that can occur.
 
