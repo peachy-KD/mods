@@ -10,5 +10,7 @@ add forUnleashedProject/disk/bb2/#pam000.ar.00
 add forUnleashedProject/disk/bb2/#pam000.arl
 add forUnleashedProject/disk/bb3/#SonicClassic.ar.00
 add forUnleashedProject/disk/bb3/#SonicClassic.arl
+add forGenerationsStages/disk/bb/#bne.ar.00
+add forGenerationsStages/disk/bb/#bne.arl
 add readme.txt
 add mod.ini
