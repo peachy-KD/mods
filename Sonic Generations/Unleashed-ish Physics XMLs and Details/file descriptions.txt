@@ -10,15 +10,3 @@ Descriptions of each xml file as well as their use in the mod.
 
 "Generations Final [...]" - Parameter values for Sonic's physics from the final version of Sonic Generations. These .xml files are located in "disk\bb3.cpk\#Sonic(Classic).ar.00".
 * Values from here are used to accommodate some situations introduced in Generations that were not in Unleashed, like being underwater or using Wisps.
-
-"#csc200.ar.00 - setdase_base.set.xml" - Placement of objects for Crisis City Act 2. This file is located in "disk\bb2.cpk\#csc200.ar.00".
-* For the mod, I removed the autorun trigger from the loop to prevent a softlock that can occur.
-
-remaining files - These files override some of Sonic's physics in the final game during certain stages.
-Location for each:
-- Speed Highway 2 M1: "disk\bb.cpk\#sph201.ar.00"
-- VS Egg Dragoon: "disk\bb.cpk\#bne.ar.00"
-- VS Metal Sonic: "disk\bb2.cpk\#bms.ar.00"
-- VS Silver: "disk\bb2.cpk\#bsl.ar.00"
-- White Space: "disk\bb2.cpk\#pam000.ar.00"
-* For the mod, I (for the most part) removed any parameters that were the same as Unleashed's, Generations', or weren't used in Unleashed.
