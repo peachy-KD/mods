@@ -6,4 +6,6 @@ add MPhysicsXBH/disk/bb3/#Sonic.ar.00
 add MPhysicsXBH/disk/bb3/#Sonic.arl
 add forUnleashedProject/disk/bb3/#SonicClassic.ar.00
 add forUnleashedProject/disk/bb3/#SonicClassic.arl
+delete configuration.json
+add ConfigSchema.json
 add mod.ini
