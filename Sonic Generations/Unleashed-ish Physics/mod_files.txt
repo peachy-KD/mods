@@ -8,4 +8,5 @@ add forUnleashedProject/disk/bb3/#SonicClassic.ar.00
 add forUnleashedProject/disk/bb3/#SonicClassic.arl
 delete configuration.json
 add ConfigSchema.json
+add readme.txt
 add mod.ini
