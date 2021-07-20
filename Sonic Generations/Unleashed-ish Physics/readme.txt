@@ -5,7 +5,7 @@ Before playing, PLEASE be sure to configure this mod in HedgeModManager by right
 
 If another mod is modifying the "disk/bb3/#Sonic.ar.00" or "disk/bb3/#SonicClassic.ar.00" files, this mod may not work unless set to higher priority.
 
-The "Homing Attack on Boost" code by SWS90 in HedgeModManager overrides the option set by this mod. Said code will also enable the "XButtonHoming" setting for Classic Sonic. This results in him getting a non-homing air dash mapped to the Jump button, which may make it more difficult to use Elemental Shield actions. If you want to only enable the setting for Modern Sonic, be sure to disable the HMM code and set the option within this mod.
+The "Homing Attack on Boost" code by SWS90 in HedgeModManager overrides the option set by this mod. Said code will also enable the "XButtonHoming" setting for Classic Sonic. This results in him getting a non-homing air dash mapped to the Jump button, which may make it more difficult to use Elemental Shield actions. If you want to only enable the setting for Modern Sonic, be sure to disable the HMM code and set the option within this mod (it's enabled by default!).
 
 Notes for if you set Homing Attack to the Boost button:
 
@@ -20,4 +20,7 @@ Notes for if you set Homing Attack to the Boost button:
 For more in-depth notes on changes, check out this link on pastebin: https://pastebin.com/xm4uTRz5
 
 Known issues:
-* Super Sonic cannot clear the first whale jump in Cool Edge.
+
+* In Unleashed Project 1.0, Super Sonic cannot clear the first whale jump in Cool Edge.
+
+* In Unleashed Project 1.0, firing right on the first Four-Way Cannon in Jungle Joyride won't give you enough speed without an Air Boost.
