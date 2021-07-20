@@ -21,12 +21,12 @@
                "Name": "IncludeDir1",
                "DisplayName": "Homing Attack Button",
                "Description": [
-                  "Choose whether Modern Sonic will have the Homing Attack mapped to the Jump button or the Boost button. (Note that the HedgeModManager 'Homing Attack on Boost' code by SWS90 will override this choice.)",
+                  "Choose whether Modern Sonic will have the Homing Attack mapped to the Boost button or the Jump button. (Note that the HedgeModManager 'Homing Attack on Boost' code by SWS90 will override this choice.)",
                ],
                "Type": "HomingOptions",
 		       "MinValue": null,
 		       "MaxValue": null,
-               "DefaultValue": "MPhysicsABH"
+               "DefaultValue": "MPhysicsXBH"
             },
 
             {
@@ -78,16 +78,16 @@
       "HomingOptions": [
          
          {
-            "DisplayName": "Jump",
-            "Value": "MPhysicsABH",
+            "DisplayName": "Boost",
+            "Value": "MPhysicsXBH",
             "Description": [
                "",
             ]
          },
 
          {
-            "DisplayName": "Boost",
-            "Value": "MPhysicsXBH",
+            "DisplayName": "Jump",
+            "Value": "MPhysicsABH",
             "Description": [
                "",
             ]
