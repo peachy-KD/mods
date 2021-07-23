@@ -17,8 +17,6 @@ Notes for if you set Homing Attack to the Boost button:
 
 * Modern Super Sonic cannot initiate his Floating Boost (the "auto-pilot" flight) while in mid-air.
 
-For more in-depth notes on changes, check out this link on pastebin: https://pastebin.com/xm4uTRz5
-
 Known issues:
 
 * In Unleashed Project 1.0, Super Sonic cannot clear the first whale jump in Cool Edge.
