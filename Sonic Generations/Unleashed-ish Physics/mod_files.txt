@@ -4,6 +4,8 @@ add MPhysicsABH/disk/bb3/#Sonic.ar.00
 add MPhysicsABH/disk/bb3/#Sonic.arl
 add MPhysicsXBH/disk/bb3/#Sonic.ar.00
 add MPhysicsXBH/disk/bb3/#Sonic.arl
+add forGenerationsStages/disk/bb/#bne.ar.00
+add forGenerationsStages/disk/bb/#bne.arl
 add forUnleashedProject/disk/bb3/#SonicClassic.ar.00
 add forUnleashedProject/disk/bb3/#SonicClassic.arl
 delete configuration.json
