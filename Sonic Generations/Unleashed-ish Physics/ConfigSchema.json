@@ -14,7 +14,7 @@
                "Type": "StageOptions",
 		       "MinValue": null,
 		       "MaxValue": null,
-               "DefaultValue": "forGenerationsStages"
+               "DefaultValue": "dummy"
             },
 
             {
