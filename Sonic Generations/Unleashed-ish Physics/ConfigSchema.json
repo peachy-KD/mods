@@ -14,7 +14,7 @@
                "Type": "StageOptions",
 		       "MinValue": null,
 		       "MaxValue": null,
-               "DefaultValue": "dummy"
+               "DefaultValue": "forGenerationsStages"
             },
 
             {
@@ -33,7 +33,7 @@
                "Name": "IncludeDir2",
                "DisplayName": "'Unleashed-ish' Classic Sonic Physics",
                "Description": [
-                  "Choose whether or not to use the Classic Sonic physics changes.",
+                  "Choose whether or not to use the Classic Sonic physics changes. (Most noticeable changes are that rolling doesn't slow down quite as fast, air dash is longer, and Super Sonic loses rings at a rate of 1 per second.)",
                ],
                "Type": "ClassicOptions",
 		       "MinValue": null,
