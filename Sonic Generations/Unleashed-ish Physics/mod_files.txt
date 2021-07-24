@@ -12,3 +12,4 @@ delete configuration.json
 add ConfigSchema.json
 delete dummy/dummy.txt
 add readme.txt
+add mod.ini
