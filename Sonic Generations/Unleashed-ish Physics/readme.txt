@@ -19,6 +19,8 @@ Notes for if you set Homing Attack to the Boost button:
 
 Known issues:
 
+* Super Sonic has more control of his Floating Boost; be wary of steering off the stage!
+
 * In Unleashed Project 1.0, Super Sonic cannot clear the first whale jump in Cool Edge.
 
 * In Unleashed Project 1.0, firing right on the first Four-Way Cannon in Jungle Joyride won't give you enough speed without an Air Boost.
