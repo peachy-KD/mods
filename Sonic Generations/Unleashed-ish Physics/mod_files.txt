@@ -10,7 +10,8 @@ add forUnleashedProject/disk/bb3/#SonicClassic.ar.00
 add forUnleashedProject/disk/bb3/#SonicClassic.arl
 delete configuration.json
 add ConfigSchema.json
-delete forGenerationsStages/disk/bb2/#csc200.ar.00
-delete forGenerationsStages/disk/bb2/#csc200.arl
+add dummy/dummy.txt
+add forGenerationsStages/disk/bb2/#csc200.ar.00
+add forGenerationsStages/disk/bb2/#csc200.arl
 add readme.txt
 add mod.ini
