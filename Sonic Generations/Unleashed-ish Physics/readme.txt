@@ -1,7 +1,7 @@
 Another attempt to bring some Unleashed-styled handling to Generations!
 
 IMPORTANT NOTES:
-Before playing, PLEASE be sure to configure this mod in HedgeModManager by right clicking it and selecting "Configure mod!" Having the wrong "Stage Set" configured may cause game-breaking issues!
+Before playing, be sure to configure this mod in HedgeModManager by right clicking it and selecting "Configure mod!" Having the wrong "Stage Set" configured may cause game-breaking issues.
 
 If another mod is modifying the "disk/bb3/#Sonic.ar.00" or "disk/bb3/#SonicClassic.ar.00" files, this mod may not work unless set to higher priority.
 
@@ -19,7 +19,7 @@ Notes for if you set Homing Attack to the Boost button:
 
 Other notes / known issues:
 
-* Modern Super Sonic has more control of his Floating Boost; be wary of steering off the stage!
+* Modern Super Sonic has much more control over his Floating Boost; be wary of steering off the stage!
 
 * In Unleashed Project 1.0, Super Sonic cannot clear the first whale jump in Cool Edge.
 
