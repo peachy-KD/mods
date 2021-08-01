@@ -14,7 +14,7 @@
                "Type": "StageOptions",
 		       "MinValue": null,
 		       "MaxValue": null,
-               "DefaultValue": "dummy"
+               "DefaultValue": "forGenerationsStages"
             },
 
             {
@@ -26,7 +26,7 @@
                "Type": "HomingOptions",
 		       "MinValue": null,
 		       "MaxValue": null,
-               "DefaultValue": "MPhysicsXBH"
+               "DefaultValue": "MPhysicsABH"
             },
 
             {
@@ -98,7 +98,7 @@
       "ClassicOptions": [
 
          {
-            "DisplayName": "Yes",
+            "DisplayName": "Enable",
             "Value": "CPhysics",
             "Description": [
                "",
@@ -106,7 +106,7 @@
          },
          
          {
-            "DisplayName": "No",
+            "DisplayName": "Disable",
             "Value": "dummy",
             "Description": [
                "",

@@ -1,5 +1,7 @@
 Another attempt to bring some Unleashed-styled handling to Generations!
 
+For a detailed changelog, go to this link:  https://pastebin.com/xm4uTRz5
+
 IMPORTANT NOTES:
 Before playing, be sure to configure this mod in HedgeModManager by right clicking it and selecting "Configure mod!" Having the wrong "Stage Set" configured may cause game-breaking issues.
 
