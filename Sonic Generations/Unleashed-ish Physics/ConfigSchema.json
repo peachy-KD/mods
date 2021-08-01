@@ -98,7 +98,7 @@
       "ClassicOptions": [
 
          {
-            "DisplayName": "Enable",
+            "DisplayName": "Yes",
             "Value": "CPhysics",
             "Description": [
                "",
@@ -106,7 +106,7 @@
          },
          
          {
-            "DisplayName": "Disable",
+            "DisplayName": "No",
             "Value": "dummy",
             "Description": [
                "",
