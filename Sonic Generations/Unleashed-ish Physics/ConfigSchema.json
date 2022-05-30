@@ -7,14 +7,14 @@
  
             {
                "Name": "IncludeDir0",
-               "DisplayName": "Stage Set",
+               "DisplayName": "Alternate Stage Files",
                "Description": [
-                  "Indicate what stages you will be playing with the mod. (Unleashed Project and other stage mods must be downloaded separately.)",
+                  "Select a set of modified stage files. These will remove certain (not all) overrides for Sonic's physics in some stages, allowing him to handle more consistently.",
                ],
                "Type": "StageOptions",
 		       "MinValue": null,
 		       "MaxValue": null,
-               "DefaultValue": "forGenerationsStages"
+               "DefaultValue": "stages"
             },
 
             {
@@ -26,19 +26,7 @@
                "Type": "HomingOptions",
 		       "MinValue": null,
 		       "MaxValue": null,
-               "DefaultValue": "MPhysicsABH"
-            },
-
-            {
-               "Name": "IncludeDir2",
-               "DisplayName": "'Unleashed-ish' Classic Sonic Physics",
-               "Description": [
-                  "Choose whether or not to use the Classic Sonic physics changes. (Most noticeable changes are that rolling doesn't slow down quite as fast, air dash is longer, and Super Sonic loses rings at a rate of 1 per second.)",
-               ],
-               "Type": "ClassicOptions",
-		       "MinValue": null,
-		       "MaxValue": null,
-               "DefaultValue": "CPhysics"
+               "DefaultValue": "physicsm"
             },
 
          ]
@@ -50,26 +38,26 @@
       "StageOptions": [
 
          {
-            "DisplayName": "Generations",
-            "Value": "forGenerationsStages",
+            "DisplayName": "Sonic Generations (base)",
+            "Value": "stages",
             "Description": [
-               "",
+               "Load files to remove overrides from the standard game's levels.",
             ]
          },
 
          {
             "DisplayName": "Unleashed Project 1.0",
-            "Value": "forUnleashedProject",
+            "Value": "stages_unleashed",
             "Description": [
-               "",
+               "Load files to remove overrides from Unleashed Project 1.0's levels.",
             ]
          },      
 
          {
-            "DisplayName": "Other",
+            "DisplayName": "None",
             "Value": "dummy",
             "Description": [
-               "",
+               "Load no alternate stage files. Recommended for use with other stage mods.",
             ]
          },
 
@@ -79,37 +67,17 @@
          
          {
             "DisplayName": "Boost",
-            "Value": "MPhysicsXBH",
+            "Value": "physicsm",
             "Description": [
-               "",
+               "Map the Homing Attack to the Boost button.",
             ]
          },
 
          {
             "DisplayName": "Jump",
-            "Value": "MPhysicsABH",
+            "Value": "physicsm_abh",
             "Description": [
-               "",
-            ]
-         },
-
-      ],
-
-      "ClassicOptions": [
-
-         {
-            "DisplayName": "Yes",
-            "Value": "CPhysics",
-            "Description": [
-               "",
-            ]
-         },
-         
-         {
-            "DisplayName": "No",
-            "Value": "dummy",
-            "Description": [
-               "",
+               "Map the Homing Attack to the Jump button.",
             ]
          },
 
