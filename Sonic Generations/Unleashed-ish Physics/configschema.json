@@ -9,7 +9,7 @@
                "Name": "IncludeDir0",
                "DisplayName": "Alternate Stage Files",
                "Description": [
-                  "Select a set of modified stage files. These will remove certain (not all) overrides for Sonic's physics in some stages, allowing him to handle more consistently.",
+                  "Select a set of modified stage files. These will remove redundant overrides for Sonic's physics in some stages, allowing him to handle more consistently.",
                ],
                "Type": "StageOptions",
 		       "MinValue": null,
