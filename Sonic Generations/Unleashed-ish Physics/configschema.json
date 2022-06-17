@@ -9,11 +9,9 @@
                "Name": "IncludeDir0",
                "DisplayName": "Alternate Stage Files",
                "Description": [
-                  "Select a set of modified stage files. These will remove redundant overrides for Sonic's physics in some stages, allowing him to handle more consistently.",
+                  "Select a set of modified stage files. These will remove redundant overrides for Sonic's physics in certain stages, allowing him to handle more consistently.",
                ],
                "Type": "StageOptions",
-		       "MinValue": null,
-		       "MaxValue": null,
                "DefaultValue": "stages"
             },
 
@@ -24,8 +22,6 @@
                   "Choose whether Modern Sonic will have the Homing Attack mapped to the Boost button or the Jump button. (Note that the HedgeModManager 'Homing Attack on Boost' code by SWS90 will override this choice.)",
                ],
                "Type": "HomingOptions",
-		       "MinValue": null,
-		       "MaxValue": null,
                "DefaultValue": "physicsm"
             },
 
