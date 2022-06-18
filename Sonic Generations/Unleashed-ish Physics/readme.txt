@@ -12,15 +12,15 @@ Notes for if the Homing Attack is set to the Boost button:
 
 * During the diving section in the Egg Dragoon fight, the Jump button must be used to Homing Attack the boss. The Boost button dives faster as usual.
 
-* Modern Super Sonic cannot initiate his Floating Boost while in mid-air.
+* You cannot initiate Modern Super Sonic's Floating Boost while in mid-air. He will instead Air Boost / Homing Attack.
 
 Other notes / known issues:
 
-* Modern Super Sonic has much more control over his Floating Boost; be wary of steering off the stage!
+* Modern Super Sonic has much more control over the Floating Boost; be wary of steering off the stage!
 
 * In Unleashed Project 1.0, Super Sonic may not be able to clear the large gaps in Cool Edge.
 
 * In Unleashed Project 1.0, firing right on the first Four-Way Cannon in Jungle Joyride won't give you enough speed without an Air Boost / Homing Attack.
 
-For an in-depth changelog, go to this link:
+For an in-depth changelog, check out this link:
 https://pastebin.com/xm4uTRz5
