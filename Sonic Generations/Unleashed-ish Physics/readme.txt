@@ -22,5 +22,5 @@ Other notes / known issues:
 
 * In Unleashed Project 1.0, firing right on the first Four-Way Cannon in Jungle Joyride won't give you enough speed without an Air Boost / Homing Attack.
 
-For an in-depth changelog, check out this link:
+For a more in-depth description of changes made, check out this link:
 https://pastebin.com/xm4uTRz5
