@@ -12,7 +12,7 @@ Notes for if the Homing Attack is set to the Boost button:
 
 * During the diving section in the Egg Dragoon fight, the Jump button must be used to Homing Attack the boss. The Boost button dives faster as usual.
 
-* You cannot initiate Modern Super Sonic's Floating Boost while in mid-air. He will instead Air Boost / Homing Attack.
+* You cannot initiate Modern Super Sonic's Floating Boost while in mid-air. He will instead Air Boost / Homing Attack as he would in base form.
 
 Other notes / known issues:
 
