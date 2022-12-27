@@ -14,8 +14,6 @@ add physicsc/disk/bb3/#SonicClassic.ar.00
 add physicsc/disk/bb3/#SonicClassic.arl
 add physicsm/disk/bb3/#Sonic.ar.00
 add physicsm/disk/bb3/#Sonic.arl
-add stages_unleashed/disk/bb3/#SonicClassic.ar.00
-add stages_unleashed/disk/bb3/#SonicClassic.arl
 add physicsm_abh/disk/bb3/#Sonic.ar.00
 add physicsm_abh/disk/bb3/#Sonic.arl
 add configschema.json
