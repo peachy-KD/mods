@@ -1,5 +1,15 @@
 Before playing, be sure to configure this mod in HedgeModManager. If another mod is modifying the "disk/bb3/#Sonic.ar.00" or "disk/bb3/#SonicClassic.ar.00" files, this mod may not work unless set to higher priority.
 
+
+If you would like to use these physics with "Unleashed Project: The Complete Addon" by K1 A1, I recommend ordering the mods this way in HedgeModManager from top to bottom:
+
+- Unleashed Project Addon, with "Unleashed Physics" set to "Disable"
+
+- this mod, with "Alternate Stage Files" set to "Unleashed Project"
+
+- Unleashed Project 1.0
+
+
 The "Homing Attack on Boost" code by SWS90 in HedgeModManager overrides the option set by this mod. The code will also enable the "XButtonHoming" setting for Classic Sonic. This results in him getting a Homing Attack mapped to the Jump button without the actual homing function. If you want to only enable the setting for Modern Sonic, be sure the HMM code is disabled.
 
 Notes for if the Homing Attack is set to the Boost button:

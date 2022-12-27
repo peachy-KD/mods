@@ -37,7 +37,7 @@
             "DisplayName": "Sonic Generations (base)",
             "Value": "stages",
             "Description": [
-               "Load files to remove overrides from the standard game's levels.",
+               "Files recommended for use with the standard game's levels.",
             ]
          },
 
@@ -45,7 +45,7 @@
             "DisplayName": "Unleashed Project",
             "Value": "stages_unleashed",
             "Description": [
-               "Load files to remove overrides from Unleashed Project's hub world.",
+               "Files recommended for use with the Unleashed Project.",
             ]
          },      
 
@@ -53,7 +53,7 @@
             "DisplayName": "None",
             "Value": "dummy",
             "Description": [
-               "Load no alternate stage files. Recommended for use with most stage mods.",
+               "Files recommended for use with most other stage mods.",
             ]
          },
 
