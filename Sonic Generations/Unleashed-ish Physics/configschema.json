@@ -42,10 +42,10 @@
          },
 
          {
-            "DisplayName": "Unleashed Project 1.0",
+            "DisplayName": "Unleashed Project",
             "Value": "stages_unleashed",
             "Description": [
-               "Load files to remove overrides from Unleashed Project 1.0's levels.",
+               "Load files to remove overrides from Unleashed Project's hub world.",
             ]
          },      
 
@@ -53,7 +53,7 @@
             "DisplayName": "None",
             "Value": "dummy",
             "Description": [
-               "Load no alternate stage files. Recommended for use with other stage mods.",
+               "Load no alternate stage files. Recommended for use with most stage mods.",
             ]
          },
 
