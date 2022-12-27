@@ -6,6 +6,8 @@ delete stages_unleashed/disk/bb3/#SonicClassic.ar.00
 delete stages_unleashed/disk/bb3/#SonicClassic.arl
 delete physicsm_abh/disk/bb3/#Sonic.ar.00
 delete physicsm_abh/disk/bb3/#Sonic.arl
+delete configschema.json
+delete stages_unleashed
 delete mod.ini
 
 add physicsc/disk/bb3/#SonicClassic.ar.00
@@ -16,4 +18,5 @@ add stages_unleashed/disk/bb3/#SonicClassic.ar.00
 add stages_unleashed/disk/bb3/#SonicClassic.arl
 add physicsm_abh/disk/bb3/#Sonic.ar.00
 add physicsm_abh/disk/bb3/#Sonic.arl
+add configschema.json
 add mod.ini
