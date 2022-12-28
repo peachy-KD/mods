@@ -3,9 +3,9 @@ Before playing, be sure to configure this mod in HedgeModManager. If another mod
 
 If you would like to use these physics with "Unleashed Project: The Complete Addon" by K1 A1, I recommend ordering the mods this way in HedgeModManager from top to bottom:
 
-- Unleashed Project Addon, with "Unleashed Physics" set to "Disable"
-
 - this mod, with "Alternate Stage Files" set to "Unleashed Project"
+
+- Unleashed Project Addon, with "Unleashed Physics" set to "Disable"
 
 - Unleashed Project 1.0
 
