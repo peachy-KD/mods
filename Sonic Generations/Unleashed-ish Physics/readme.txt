@@ -5,7 +5,7 @@ If you would like to use these physics with "Unleashed Project: The Complete Add
 
 - this mod, with "Alternate Stage Files" set to "Unleashed Project"
 
-- Unleashed Project Addon, with "Unleashed Physics" set to "Disable"
+- Unleashed Project Addon
 
 - Unleashed Project 1.0
 
