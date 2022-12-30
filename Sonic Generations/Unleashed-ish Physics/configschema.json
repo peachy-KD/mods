@@ -17,12 +17,22 @@
 
             {
                "Name": "IncludeDir1",
-               "DisplayName": "Homing Attack Button",
+               "DisplayName": "Homing Attack Button (Modern)",
                "Description": [
-                  "Choose whether Modern Sonic will have the Homing Attack mapped to the Boost button or the Jump button. (Note that the HedgeModManager 'Homing Attack on Boost' code by SWS90 will override this choice.)",
+                  "Select whether Modern Sonic will have the Homing Attack mapped to the Boost button or the Jump button. (Note that the HedgeModManager 'Homing Attack on Boost' code by SWS90 will override this choice.)",
                ],
                "Type": "HomingOptions",
                "DefaultValue": "physicsm"
+            },
+			
+            {
+               "Name": "IncludeDir2",
+               "DisplayName": "Unleashed Style Classic Sonic Physics",
+               "Description": [
+                  "Select whether or not Classic Sonic will use a set of physics based more directly on Sonic Unleashed.",
+               ],
+               "Type": "ClassicOptions",
+               "DefaultValue": "physicsc"
             },
 
          ]
@@ -53,7 +63,7 @@
             "DisplayName": "None",
             "Value": "dummy",
             "Description": [
-               "Files recommended for use with most other stage mods.",
+               "Load no alternate stage files. Recommended for use with most other stage mods.",
             ]
          },
 
@@ -74,6 +84,26 @@
             "Value": "physicsm_abh",
             "Description": [
                "Map the Homing Attack to the Jump button.",
+            ]
+         },
+
+      ],
+
+      "ClassicOptions": [
+         
+         {
+            "DisplayName": "Enabled",
+            "Value": "physicsc",
+            "Description": [
+               "Classic Sonic will handle more similarly to Unleashed Sonic.",
+            ]
+         },
+
+         {
+            "DisplayName": "Disabled",
+            "Value": "dummy",
+            "Description": [
+               "Classic Sonic will use his original physics from Sonic Generations, or from another mod if applicable.",
             ]
          },
 
