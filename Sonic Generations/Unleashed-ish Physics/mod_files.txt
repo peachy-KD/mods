@@ -45,7 +45,5 @@ add physicsm/disk/bb3/#Sonic.ar.00
 add physicsm/disk/bb3/#Sonic.arl
 add physicsm_abh/disk/bb3/#Sonic.ar.00
 add physicsm_abh/disk/bb3/#Sonic.arl
-add stages_unleashed/disk/bb2/#pam000.ar.00
-add stages_unleashed/disk/bb2/#pam000.arl
 add configschema.json
 add mod.ini
