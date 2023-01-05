@@ -47,3 +47,4 @@ add physicsm_abh/disk/bb3/#Sonic.ar.00
 add physicsm_abh/disk/bb3/#Sonic.arl
 add configschema.json
 add mod.ini
+add readme.txt
