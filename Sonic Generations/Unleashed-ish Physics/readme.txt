@@ -1,6 +1,6 @@
 Before playing, be sure to configure this mod in HedgeModManager. If another mod is modifying the "disk/bb3/#Sonic.ar.00" or "disk/bb3/#SonicClassic.ar.00" files, this mod may not work unless set to higher priority.
 
-For example, if you would like to use these physics with any type of Unleashed Project mod (such as the Unleashed Project Add-On, or Unleashed Encore), I recommend ordering the mods this way in HedgeModManager from top to bottom:
+For instance, if you would like to use these physics with any type of Unleashed Project mod (such as the Unleashed Project Add-On, or Unleashed Encore), I recommend ordering the mods this way in HedgeModManager from top to bottom:
 
 - this mod, with "Modified Stage Files" set to "Disabled"
 
@@ -9,7 +9,7 @@ For example, if you would like to use these physics with any type of Unleashed P
 - Unleashed Project 1.0
 
 
-Notes for if the Homing Attack is set to the Boost button:
+Some notes for if the Homing Attack is set to the Boost button:
 
 * Control tutorials will still show the Homing Attack as "A + A."
 

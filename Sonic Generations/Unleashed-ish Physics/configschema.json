@@ -9,7 +9,7 @@
                "Name": "IncludeDir0",
                "DisplayName": "Modified Stage Files",
                "Description": [
-                  "Select whether or not to use a set of modified stage files. These will allow Sonic to handle more consistently in certain missions / bosses.",
+                  "Select whether or not to use a set of modified stage files. These will allow Sonic to handle more consistently during certain missions / bosses from the standard game.",
                ],
                "Type": "StageOptions",
                "DefaultValue": "stages"
@@ -17,7 +17,7 @@
 
             {
                "Name": "IncludeDir1",
-               "DisplayName": "Homing Attack Button for Modern Sonic",
+               "DisplayName": "Homing Attack Button (Modern Sonic)",
                "Description": [
                   "Select whether Modern Sonic will have the Homing Attack mapped to the Boost button or the Jump button.",
                ],
@@ -27,7 +27,7 @@
 			
             {
                "Name": "IncludeDir2",
-               "DisplayName": "Unleashed-ish Physics for Classic Sonic",
+               "DisplayName": "Classic Sonic Physics",
                "Description": [
                   "Select whether or not Classic Sonic will use a set of physics based more directly on Sonic Unleashed.",
                ],
@@ -47,7 +47,7 @@
             "DisplayName": "Enabled",
             "Value": "stages",
             "Description": [
-               "Load stage files recommended for use with the standard game.",
+               "Load stage files recommended for use during the standard game's missions / bosses.",
             ]
          },
 
@@ -84,7 +84,7 @@
       "ClassicOptions": [
          
          {
-            "DisplayName": "Enabled",
+            "DisplayName": "Unleashed-ish",
             "Value": "physicsc",
             "Description": [
                "Classic Sonic will handle more like Unleashed Sonic.",
@@ -92,7 +92,7 @@
          },
 
          {
-            "DisplayName": "Disabled",
+            "DisplayName": "Original / Other",
             "Value": "dummy",
             "Description": [
                "Classic Sonic will use his original physics from Sonic Generations, or from another mod if applicable.",
