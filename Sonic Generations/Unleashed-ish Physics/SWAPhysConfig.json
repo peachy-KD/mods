@@ -7,9 +7,9 @@
  
             {
                "Name": "IncludeDir0",
-               "DisplayName": "Modified Stage Files",
+               "DisplayName": "Modified Generations Stage Files",
                "Description": [
-                  "Select whether or not to use a set of modified stage files. These will allow Sonic to handle more consistently during certain missions / bosses in the standard game.",
+                  "Select whether or not to load a set of modified stage files. These files will allow Sonic to handle more consistently during certain missions/bosses in the standard game, and provide a fix for a glitch in Crisis City Act 2.",
                ],
                "Type": "StageOptions",
                "DefaultValue": "stages"
@@ -24,16 +24,6 @@
                "Type": "HomingOptions",
                "DefaultValue": "physicsm"
             },
-			
-            {
-               "Name": "IncludeDir2",
-               "DisplayName": "Classic Sonic Physics",
-               "Description": [
-                  "Select whether or not Classic Sonic will use a set of physics based more directly on Sonic Unleashed.",
-               ],
-               "Type": "ClassicOptions",
-               "DefaultValue": "physicsc"
-            },
 
          ]
       }
@@ -47,7 +37,7 @@
             "DisplayName": "Enabled",
             "Value": "stages",
             "Description": [
-               "Load stage files recommended for use during the standard game's missions / bosses.",
+               "Load the modified stage files. This option is recommended for use with the standard game's levels/missions/bosses.",
             ]
          },
 
@@ -55,7 +45,7 @@
             "DisplayName": "Disabled",
             "Value": "dummy",
             "Description": [
-               "Load no extra stage files. Recommended for use with most stage mods.",
+               "Load no modified stage files. This option is recommended for use with most stage mods.",
             ]
          },
 
@@ -76,26 +66,6 @@
             "Value": "physicsm_abh",
             "Description": [
                "Map the Homing Attack to the Jump button.",
-            ]
-         },
-
-      ],
-
-      "ClassicOptions": [
-         
-         {
-            "DisplayName": "Unleashed Style",
-            "Value": "physicsc",
-            "Description": [
-               "Classic Sonic will handle more like Unleashed Sonic.",
-            ]
-         },
-
-         {
-            "DisplayName": "Default / Other",
-            "Value": "dummy",
-            "Description": [
-               "Classic Sonic will use his original physics from Sonic Generations, or from another mod if applicable.",
             ]
          },
 
