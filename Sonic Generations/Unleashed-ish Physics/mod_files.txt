@@ -16,6 +16,8 @@ delete stages/disk/bb2/#csc200.ar.00
 delete stages/disk/bb2/#csc200.arl
 delete stages/disk/bb2/#pam000.ar.00
 delete stages/disk/bb2/#pam000.arl
+delete stages/disk/bb2/#ssh203.ar.00
+delete stages/disk/bb2/#ssh203.arl
 delete stages/disk/bb2/#ssh205.ar.00
 delete stages/disk/bb2/#ssh205.arl
 delete stages_unleashed/disk/bb/#cpz100.ar.00
@@ -71,8 +73,6 @@ add stages/disk/bb2/#csc200.ar.00
 add stages/disk/bb2/#csc200.arl
 add stages/disk/bb2/#pam000.ar.00
 add stages/disk/bb2/#pam000.arl
-add stages/disk/bb2/#ssh203.ar.00
-add stages/disk/bb2/#ssh203.arl
 add stages/disk/bb2/#ssh205.ar.00
 add stages/disk/bb2/#ssh205.arl
 add SWAPhysConfig.json
