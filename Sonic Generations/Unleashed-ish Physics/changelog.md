@@ -14,4 +14,4 @@
 - Modern Sonic Hurdle Jump (short hop) set approximately to Generations final values
 - Egg Dragoon fight uses Generations final "WallJumpReady" settings
 - Removed all Unleashed Project-related files (would recommend going to the mod folder and deleting the "stages_unleashed" folder if it's still present)
-- Classic Sonic handling based on Modern Sonic in this mod
+- Classic Sonic handling based on Unleashed Sonic
