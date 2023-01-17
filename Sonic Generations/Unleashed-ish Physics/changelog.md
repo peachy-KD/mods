@@ -5,10 +5,10 @@
 
 ## Unleashed Style Physics v1.9.2
 - Fixed a White Space Spin Dash parameter not being set properly for Classic Sonic
+- Fixed one of Modern Sonic's parameters getting set to Classic Sonic's value
 
 ## Unleashed Style Physics v1.9.1
 - Classic Sonic handling based (mostly) on Generations Classic Sonic (again)
-- Fixed one of Modern Sonic's parameters getting set to Classic Sonic's value
 
 ## Unleashed Style Physics v1.9
 - Modern Sonic Hurdle Jump (short hop) set approximately to Generations final values
