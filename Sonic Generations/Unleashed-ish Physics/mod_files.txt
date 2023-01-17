@@ -34,6 +34,7 @@ delete stages_unleashed/disk/bb3/#SonicClassic.ar.00
 delete stages_unleashed/disk/bb3/#SonicClassic.arl
 delete configschema.json
 
+add dummy/dummy.txt
 add physicsc/disk/bb3/#SonicClassic.ar.00
 add physicsc/disk/bb3/#SonicClassic.arl
 add physicsm/disk/bb3/#Sonic.ar.00
