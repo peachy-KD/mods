@@ -1,6 +1,5 @@
-
 ## Unleashed Style Physics v1.9.3
-- Chaos Energy gain by Rings set to the exact Unleashed value (0.02)
+- Chaos Energy gain by Rings set to Unleashed value (0.02)
 - Classic Sonic aerial handling adjusted for Metal Sonic fight
 - development changelog updated
 
