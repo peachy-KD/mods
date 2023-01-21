@@ -1,3 +1,6 @@
+v1.9.4b
+(forgot to put Classic Sonic's Super Sonic accel back to Generations' setting, sorry about that!)
+
 ## Unleashed Style Physics v1.9.4
 - Classic Sonic slope stand ability set to Generations value
 - underwater physics adjusted
