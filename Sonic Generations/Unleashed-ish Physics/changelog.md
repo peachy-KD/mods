@@ -1,5 +1,6 @@
 ## Unleashed Style Physics v1.9.4
 - Classic Sonic slope stand ability set to Generations value
+- underwater physics adjusted
 - Modern Sonic short hop adjusted (again)
 - Classic Sonic Spin Attack rebound set to Generations value
 - misc - 'removed' some more redundant parameter settings
