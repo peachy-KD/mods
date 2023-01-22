@@ -1,5 +1,5 @@
 ## Unleashed Style Physics v1.9.4c
-(...also forgot to set Boost multipliers back to default. Now they use the Unleashed/Generations original values!)
+(...also forgot to set the Boost multipliers back. Now they use the original values from Unleashed and Generations!)
 
 ## Unleashed Style Physics v1.9.4b
 (forgot to put Classic Sonic's Super Sonic accel back to Generations' setting, sorry about that!)
