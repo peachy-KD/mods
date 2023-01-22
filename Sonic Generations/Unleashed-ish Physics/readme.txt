@@ -4,7 +4,7 @@ Before playing, be sure to configure this mod in HedgeModManager! If another mod
 
 This mod features:
 
-- player control as accurate as possible to daytime Sonic in Unleashed (of the parameters shared between Unleashed and Generations, only one handling parameter is changed for Modern Sonic in this mod);
+- close player control to daytime Sonic in Unleashed (of the parameters shared between Unleashed and Generations, only one handling parameter is changed for Modern Sonic in this mod);
 - play in all Generations missions and bosses without reverting to original physics (most noticeable with Silver and Egg Dragoon);
 - choice of Homing Attack button between Jump and Boost for Modern Sonic;
 - small adjustments to Classic Sonic's handling (including longer air dash, adjusted air velocity, slightly reduced friction, etc.)
