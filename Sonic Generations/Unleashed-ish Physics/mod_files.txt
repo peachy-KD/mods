@@ -33,6 +33,7 @@ delete stages_unleashed/disk/bb2/#ssh200.arl
 delete stages_unleashed/disk/bb3/#SonicClassic.ar.00
 delete stages_unleashed/disk/bb3/#SonicClassic.arl
 delete configschema.json
+delete readme.txt
 
 add dummy/dummy.txt
 add physicsc/disk/bb3/#SonicClassic.ar.00
@@ -57,4 +58,4 @@ add stages/disk/bb2/#ssh205.ar.00
 add stages/disk/bb2/#ssh205.arl
 add SWAPhysConfig.json
 add mod.ini
-add readme.txt
+add about.txt
