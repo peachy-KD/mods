@@ -1,8 +1,9 @@
 ## Unleashed Style Physics v1.9.4c
-(...also forgot to set the Boost multipliers back. Now they use the original values from Unleashed and Generations!)
+- set Boost Multipliers back to Unleashed/Generations values
+- removed some unnecessary files
 
 ## Unleashed Style Physics v1.9.4b
-(forgot to put Classic Sonic's Super Sonic accel back to Generations' setting, sorry about that!)
+- set Classic Super Sonic Accel back to Generations final value
 
 ## Unleashed Style Physics v1.9.4
 - Classic Sonic slope stand ability set to Generations value
