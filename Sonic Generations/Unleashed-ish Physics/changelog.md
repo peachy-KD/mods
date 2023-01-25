@@ -13,8 +13,6 @@
 - misc - removed more redundant parameter settings
 - misc - set more Classic parameters to their Generations values
 
-This will probably be the last major update for a little while! I was playtesting and noticed there was an issue with Seaside Hill 1 where Classic Sonic could easily clip into a wall on one route, which prompted this update (specifically the first change, but most of the others kinda naturally followed suit).
-
 ## Unleashed Style Physics v1.9.3
 - Chaos Energy gain by Rings set to Unleashed value (0.02)
 - Classic Sonic aerial handling adjusted for Metal Sonic fight
