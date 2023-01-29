@@ -5,7 +5,7 @@
 - removed some unnecessary files
 
 ## Unleashed Style Physics v1.9.4c
-- set Boost Multipliers back to Unleashed/Generations values
+- set Boost multipliers back to Unleashed/Generations values
 
 ## Unleashed Style Physics v1.9.4b
 - set Classic Super Sonic Accel back to Generations final value
