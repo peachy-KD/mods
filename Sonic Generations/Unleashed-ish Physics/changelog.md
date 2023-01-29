@@ -1,3 +1,6 @@
+## Unleashed Style Physics v1.9.5a
+- fixed Homing Attack settings being incorrectly set from init release
+
 ## Unleashed Style Physics v1.9.5
 - Classic Sonic air decel rate increased (0.4 → 1)
 - Classic Sonic air brake rate slightly decreased (1 → 0.7)
