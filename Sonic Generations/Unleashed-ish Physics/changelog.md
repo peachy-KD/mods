@@ -23,7 +23,7 @@
 - Classic Sonic aerial handling adjusted for Metal Sonic fight
 
 ## Unleashed Style Physics v1.9.2
-- Fixed a White Space Spin Dash parameter not being set properly for Classic Sonic
+- Fixed a White Space parameter not being set properly for Classic Sonic
 - Fixed one of Modern Sonic's parameters getting set to Classic Sonic's value
 
 ## Unleashed Style Physics v1.9.1
