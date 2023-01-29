@@ -2,7 +2,7 @@
 - Classic Sonic air decel rate increased (0.4 → 1)
 - Classic Sonic air brake rate slightly decreased (1 → 0.7)
 - removed more overrides for Sonic during Egg Dragoon and Silver boss fights
-- removed some unnecessary files
+- removed unnecessary/redundant files
 
 ## Unleashed Style Physics v1.9.4c
 - set Boost multipliers back to Unleashed/Generations values
