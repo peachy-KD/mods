@@ -1,6 +1,11 @@
+## Unleashed Style Physics v1.9.5
+- Classic Sonic air decel rate increased (0.4 → 1)
+- Classic Sonic air brake rate slightly decreased (1 → 0.7)
+- removed more overrides for Sonic during Egg Dragoon and Silver boss fights
+- removed some unnecessary files
+
 ## Unleashed Style Physics v1.9.4c
 - set Boost Multipliers back to Unleashed/Generations values
-- removed some unnecessary files
 
 ## Unleashed Style Physics v1.9.4b
 - set Classic Super Sonic Accel back to Generations final value
