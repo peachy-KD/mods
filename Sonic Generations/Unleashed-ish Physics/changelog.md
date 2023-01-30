@@ -16,7 +16,7 @@
 ## Unleashed Style Physics v1.9.4
 - Classic Sonic slope stand ability set to Generations value (60 → 10) (fixes an issue where Sonic can clip into the wall in one path on Seaside Hill 1)
 - underwater physics adjusted (GravityScale changed 0.27 → 0.65 (default); Jump and Homing Attack params are defined as in SV)
-- Modern Sonic short hop adjusted (based on default values; JumpLimitHeight and JumpVelocity reduced by 25%, FallVelocity and FlyingTime reduced by 75%)
+- Modern Sonic Hurdle Jump/short hop adjusted (based on default values; JumpLimitHeight and JumpVelocity reduced by 25%, FallVelocity and FlyingTime reduced by 75%)
 - Classic Sonic Spin Attack rebound set to Generations value (17.5 → 14.7)
 - misc - removed more redundant parameter settings
 - misc - set more Classic parameters to their Generations values
@@ -33,7 +33,7 @@
 - Classic Sonic handling based (mostly) on Generations Classic Sonic (again)
 
 ## Unleashed Style Physics v1.9
-- Modern Sonic Hurdle Jump (short hop) set approximately to Generations final values
+- Modern Sonic Hurdle Jump/short hop set approximately to Generations final values
 - Egg Dragoon fight uses Generations final "WallJumpReady" settings
 - Removed all Unleashed Project-related files (would recommend going to the mod folder and deleting the "stages_unleashed" folder if it's still present)
 - Classic Sonic handling based on Unleashed Sonic
