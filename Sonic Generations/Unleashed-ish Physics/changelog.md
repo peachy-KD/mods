@@ -2,31 +2,31 @@
 - fixed Homing Attack settings being incorrectly set from init release
 
 ## Unleashed Style Physics v1.9.5
-- Classic Sonic air decel rate increased (0.4 → 1)
-- Classic Sonic air brake rate slightly decreased (1 → 0.7)
+- Classic Sonic air decel rate increased (0.4 → 1; same amount as Unleashed Preview Build)
+- Classic Sonic air brake rate slightly decreased (1 → 0.7; same amount as Unleashed/default)
 - removed more overrides for Sonic during Egg Dragoon and Silver boss fights
-- removed unnecessary/redundant files
+- removed unnecessary/redundant files (White Space overrides, Seaside Hill M5 overrides)
 
 ## Unleashed Style Physics v1.9.4c
-- set Boost multipliers back to Unleashed/Generations values
+- set Boost multipliers at Lv0 back to original Unleashed/Generations values (1.5 FV, 1.6 SV → 1.4 FV, 1.5 SV)
 
 ## Unleashed Style Physics v1.9.4b
-- set Classic Super Sonic Accel back to Generations final value
+- set Classic Super Sonic Accel back to Generations final value (25 → 10)
 
 ## Unleashed Style Physics v1.9.4
-- Classic Sonic slope stand ability set to Generations value
-- underwater physics adjusted
-- Modern Sonic short hop adjusted (based on default values)
-- Classic Sonic Spin Attack rebound set to Generations value
+- Classic Sonic slope stand ability set to Generations value (60 → 10) (fixes an issue where Sonic can clip into the wall in one path on Seaside Hill 1)
+- underwater physics adjusted (GravityScale changed 0.27 → 0.65 (default); Jump and Homing Attack params are defined as in SV)
+- Modern Sonic short hop adjusted (based on default values; JumpLimitHeight and JumpVelocity reduced by 25%, FallVelocity and FlyingTime reduced by 75%)
+- Classic Sonic Spin Attack rebound set to Generations value (17.5 → 14.7)
 - misc - removed more redundant parameter settings
 - misc - set more Classic parameters to their Generations values
 
 ## Unleashed Style Physics v1.9.3
-- Chaos Energy gain by Rings set to Unleashed value (0.02)
+- Chaos Energy gain by Rings set to base Unleashed value (0.03 → 0.02)
 - Classic Sonic aerial handling adjusted for Metal Sonic fight
 
 ## Unleashed Style Physics v1.9.2
-- Fixed a White Space parameter not being set properly for Classic Sonic
+- Fixed a White Space parameter not being set for Classic Sonic
 - Fixed one of Modern Sonic's parameters getting set to Classic Sonic's value
 
 ## Unleashed Style Physics v1.9.1
