@@ -1,8 +1,8 @@
 ## Unleashed Style Physics v1.9.6
-- set "RingDropAdditionalNum" back to default value
-- Modern Sonic - set "DriftFinishVelocity" back to default value
-- Classic Sonic air decel rate decreased slightly (1 → 0.86)
-- Classic Sonic air brake rate increased slightly (0.7 → 1.08)
+- set "RingDropAdditionalNum" back to default value (0 → 10)
+- Modern Sonic - set "DriftFinishVelocity" back to default value (0 → 20)
+- Classic Sonic - air decel rate decreased slightly (1 → 0.86)
+- Classic Sonic - air brake rate increased slightly (0.7 → 1.08)
 - Modern Sonic - SkateBoard Drift 'low speed threshold' nullified
 - other misc adjustments
 
