@@ -3,7 +3,7 @@
 - Modern Sonic - set "DriftFinishVelocity" back to default value (0 → 20)
 - Classic Sonic - air decel rate decreased slightly (1 → 0.86)
 - Classic Sonic - air brake rate increased slightly (0.7 → 1.08)
-- Modern Sonic - SkateBoard Drift 'low speed threshold' nullified
+- Modern Sonic - SkateBoard Drift 'low speed mode' effectively disabled
 - other misc adjustments
 
 ## Unleashed Style Physics v1.9.5a
