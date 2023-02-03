@@ -23,11 +23,13 @@
 
 ## Unleashed Style Physics v1.9.4
 - Classic Sonic slope stand ability set to Generations value (60 → 10) (fixes an issue where Sonic can clip into the wall in one path on Seaside Hill 1)
-- underwater physics adjusted
+- underwater physics adjusted:
 
 Gravity Scale changed from 0.27 → 0.65 (default value);
 
-jump height and related params set to be same as they are in 2D above water
+Jump- and Homing Attack-related params set to be same as they are in 2D above water
+
+"Input Force Coefficient" set to 1
 
 - Modern Sonic Hurdle Jump/short hop parameters unique to Generations adjusted, based on default values:
 
