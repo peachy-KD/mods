@@ -29,7 +29,7 @@ Gravity Scale - 0.27 → 0.65 (default value);
 
 Jump- and Homing Attack-related params set to be same as they are in 2D above water;
 
-"PadInputForceCoeffInAir" set to 1;
+"PadInputForceCoeffInAir" set to 1
 
 - Modern Sonic Hurdle Jump/short hop parameters unique to Generations adjusted, based on default values:
 
@@ -39,11 +39,11 @@ FlyingTime - 0.4 → 0.1 (reduced by 75%);
 
 JumpLimitHeight - 12 → 9 (reduced by 25%);
 
-JumpVelocity - 1.2 → 0.9 (reduced by 25%);
+JumpVelocity - 1.2 → 0.9 (reduced by 25%)
 
-- Classic Sonic Spin Attack rebound set back to final Generations value (17.5 → 14.7)
+- Classic Sonic Spin Attack rebound set back to Generations final value (17.5 → 14.7)
 - removed more redundant parameter settings
-- Classic Sonic - set more parameters to their final Generations values
+- Classic Sonic - set more parameters to their Generations final values
 
 ## Unleashed Style Physics v1.9.3
 - Chaos Energy gain by Rings set to base Unleashed value (0.03 → 0.02)
@@ -54,7 +54,7 @@ JumpVelocity - 1.2 → 0.9 (reduced by 25%);
 - Fixed one of Modern Sonic's parameters getting set to Classic Sonic's value
 
 ## Unleashed Style Physics v1.9.1
-- Classic Sonic handling based (mostly) on final Generations Classic Sonic (again)
+- Classic Sonic handling based (mostly) on Generations final Classic Sonic (again)
 
 ## Unleashed Style Physics v1.9
 - Modern Sonic Hurdle Jump/short hop set approximately to Generations final values
