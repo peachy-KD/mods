@@ -6,7 +6,6 @@
 - Modern Sonic - SkateBoard Drift 'low speed' mode effectively disabled
 - other adjustments
 
-
 ## Unleashed Style Physics v1.9.5a
 - fixed Homing Attack settings being incorrectly set from init release
 
@@ -26,21 +25,21 @@
 - Classic Sonic slope stand ability set to Generations value (60 → 10) (fixes an issue where Sonic can clip into the wall in one path on Seaside Hill 1)
 - underwater physics adjusted:
 
-Gravity Scale changed from 0.27 → 0.65 (default value);
+Gravity Scale - 0.27 → 0.65 (default value);
 
-Jump- and Homing Attack-related params set to be same as they are in 2D above water
+Jump- and Homing Attack-related params set to be same as they are in 2D above water;
 
-"Input Force Coefficient" set to 1
+"PadInputForceCoeffInAir" set to 1;
 
 - Modern Sonic Hurdle Jump/short hop parameters unique to Generations adjusted, based on default values:
 
-FallVelocity - 9.2 → 2.3 (reduced by 75%)
+FallVelocity - 9.2 → 2.3 (reduced by 75%);
 
-FlyingTime - 0.4 → 0.1 (reduced by 75%)
+FlyingTime - 0.4 → 0.1 (reduced by 75%);
 
-JumpLimitHeight - 12 → 9 (reduced by 25%)
+JumpLimitHeight - 12 → 9 (reduced by 25%);
 
-JumpVelocity - 1.2 → 0.9 (reduced by 25%)
+JumpVelocity - 1.2 → 0.9 (reduced by 25%);
 
 - Classic Sonic Spin Attack rebound set back to final Generations value (17.5 → 14.7)
 - removed more redundant parameter settings
