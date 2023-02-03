@@ -3,8 +3,10 @@
 - Modern Sonic - set "DriftFinishVelocity" back to default value (0 → 20)
 - Classic Sonic - air decel rate decreased slightly (1 → 0.86)
 - Classic Sonic - air brake rate increased slightly (0.7 → 1.08)
+-- Classic Sonic's aerial handling is now set such that the accel rate is exactly half of its original "high speed" value (4 → 2) and the decel/brake rates are exactly twice theirs (D 0.43 → 0.86; B 0.54 → 1.08)
 - Modern Sonic - SkateBoard Drift 'low speed' mode effectively disabled
 - other adjustments
+
 
 ## Unleashed Style Physics v1.9.5a
 - fixed Homing Attack settings being incorrectly set from init release
