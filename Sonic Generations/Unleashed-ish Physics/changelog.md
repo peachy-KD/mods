@@ -29,7 +29,7 @@
 
   - Jump- and Homing Attack-related params set to be same as they are in 2D above water;
 
-  - "PadInputForceCoeffInAir" set to 1
+  - "PadInputForceCoeffInAir" - 0.6 → 1 (default value)
 
 - Modern Sonic Hurdle Jump/short hop parameters unique to Generations adjusted, based on default values:
 
