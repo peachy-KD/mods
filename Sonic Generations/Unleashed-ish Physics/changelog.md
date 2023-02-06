@@ -1,13 +1,13 @@
 ## Unleashed Style Physics v1.9.6
 - set "RingDropAdditionalNum" back to default value (0 → 10)
 - Modern Sonic - set "DriftFinishVelocity" back to default value (0 → 20)
-- Classic Sonic - air decel rate decreased slightly (1 → 0.86)
-- Classic Sonic - air brake rate increased slightly (0.7 → 1.08)
+- Classic Sonic - air decel rate decreased slightly (1 → 0.86), air brake rate increased slightly (0.7 → 1.08)
+  - Classic Sonic air accel is now directly based on final amounts (accel rate is exactly half what it was in "high speed" originally, decel rates are exactly twice as much)
 - Modern Sonic - SkateBoard Drift 'low speed' mode effectively disabled
 - other adjustments
 
 ## Unleashed Style Physics v1.9.5a
-- fixed Homing Attack settings being incorrectly set from init release
+- fixed Homing Attack settings being incorrectly set from init 1.9.5 release
 
 ## Unleashed Style Physics v1.9.5
 - Classic Sonic - air decel rate increased (0.4 → 1; same amount as Unleashed Preview Build in 2D)
@@ -31,15 +31,15 @@
 
   - "PadInputForceCoeffInAir" - 0.6 → 1 (default value)
 
-- Modern Sonic Hurdle Jump/short hop parameters unique to Generations adjusted, based on default values:
+- Modern Sonic Hurdle Jump/short hop parameters unique to Generations adjusted, based directly on default values:
 
-  - FallVelocity - 9.2 → 2.3 (reduced by 75%);
+  - Fall Velocity - 9.2 → 2.3 (reduced by 75%);
 
-  - FlyingTime - 0.4 → 0.1 (reduced by 75%);
+  - Flying Time - 0.4 → 0.1 (reduced by 75%);
 
-  - JumpLimitHeight - 12 → 9 (reduced by 25%);
+  - Height Limit - 12 → 9 (reduced by 25%);
 
-  - JumpVelocity - 1.2 → 0.9 (reduced by 25%)
+  - Jump Velocity - 1.2 → 0.9 (reduced by 25%)
 
 - Classic Sonic Spin Attack rebound set back to Generations final value (17.5 → 14.7)
 - removed more redundant parameter settings
