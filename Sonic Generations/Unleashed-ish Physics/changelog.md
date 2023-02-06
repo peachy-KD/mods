@@ -9,8 +9,8 @@
 - fixed Homing Attack settings being incorrectly set from init 1.9.5 release
 
 ## Unleashed Style Physics v1.9.5
-- Classic Sonic - air decel rate increased (0.4 → 1; same amount as Unleashed Preview Build in 2D)
-- Classic Sonic - air brake rate slightly decreased (1 → 0.7; same amount as Unleashed/default in 2D)
+- Classic Sonic - air decel rate increased (0.4 → 1)
+- Classic Sonic - air brake rate slightly decreased (1 → 0.7)
 - removed more overrides for Sonic during Egg Dragoon and Silver boss fights
 - removed unnecessary/redundant files (White Space overrides, Seaside Hill M5 overrides)
 
