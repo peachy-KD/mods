@@ -35,11 +35,11 @@
 
   - Fall Velocity - 9.2 → 2.3 (reduced by 75%);
 
-  - Flying Time - 0.4 → 0.1 (reduced by 75%);
+  - Float Time - 0.4 → 0.1 (reduced by 75%);
 
   - Height Limit - 12 → 9 (reduced by 25%);
 
-  - Jump Velocity - 1.2 → 0.9 (reduced by 25%)
+  - Rise Velocity - 1.2 → 0.9 (reduced by 25%)
 
 - Classic Sonic Spin Attack rebound set back to Generations final value (17.5 → 14.7)
 - removed more redundant parameter settings
