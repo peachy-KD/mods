@@ -2,7 +2,7 @@
 - set "RingDropAdditionalNum" back to default value (0 → 10)
 - Modern Sonic - set "DriftFinishVelocity" back to default value (0 → 20)
 - Classic Sonic - air decel rate decreased slightly (1 → 0.86), air brake rate increased slightly (0.7 → 1.08)
-- Modern Sonic - SkateBoard Drift 'low speed' mode effectively disabled
+- Modern Sonic - Drift 'low speed' mode while boarding effectively disabled
 - other adjustments
 
 ## Unleashed Style Physics v1.9.5a
