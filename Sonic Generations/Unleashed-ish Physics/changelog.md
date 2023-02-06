@@ -2,7 +2,7 @@
 - set "RingDropAdditionalNum" back to default value (0 → 10)
 - Modern Sonic - set "DriftFinishVelocity" back to default value (0 → 20)
 - Classic Sonic - air decel rate decreased slightly (1 → 0.86), air brake rate increased slightly (0.7 → 1.08)
-  - Classic Sonic air accel is now directly based on final amounts (accel rate is exactly half what it was in "high speed" originally, decel rates are exactly twice as much)
+  - (Classic Sonic air accel is now directly based on final amounts - accel rate is exactly half what it was in "high speed" originally, decel rates are exactly twice as much)
 - Modern Sonic - SkateBoard Drift 'low speed' mode effectively disabled
 - other adjustments
 
