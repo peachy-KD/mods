@@ -2,7 +2,6 @@
 - set "RingDropAdditionalNum" back to default value (0 → 10)
 - Modern Sonic - set "DriftFinishVelocity" back to default value (0 → 20)
 - Classic Sonic - air decel rate decreased slightly (1 → 0.86), air brake rate increased slightly (0.7 → 1.08)
-  - (Classic Sonic air accel is now directly based on final amounts - accel rate is exactly half what it was outside of "low speed" originally, decel rates are exactly twice as much)
 - Modern Sonic - SkateBoard Drift 'low speed' mode effectively disabled
 - other adjustments
 
@@ -32,10 +31,10 @@
   - "PadInputForceCoeffInAir" - 0.6 → 1 (default value)
 
 - Modern Sonic Hurdle Jump/short hop parameters unique to Generations adjusted, based directly on default values:
-  - rise velocity - 1.2 → 0.9 (reduced by 25%)
+  - rise velocity - 1.2 → 0.9 (reduced by 25%);
   - height limit - 12 → 9 (reduced by 25%);
   - flying time - 0.4 → 0.1 (reduced by 75%);
-  - fall velocity - 9.2 → 2.3 (reduced by 75%);
+  - fall velocity - 9.2 → 2.3 (reduced by 75%)
 
 - Classic Sonic Spin Attack rebound set back to Generations final value (17.5 → 14.7)
 - removed more redundant parameter settings
