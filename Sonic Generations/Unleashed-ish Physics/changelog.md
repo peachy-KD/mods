@@ -24,7 +24,7 @@
 - Classic Sonic slope stand ability set to Generations value (60 → 10) (fixes an issue where Sonic can clip into the wall in one path on Seaside Hill 1)
 - underwater physics adjusted:
   - gravity scale - 0.27 → 0.65 (default value);
-  - Jump- and Homing Attack-related params set to be same as they are in 2D above water;
+  - Jump- and Homing Attack-related params set to be same as they are in 2D outside water;
   - "PadInputForceCoeffInAir" - 0.6 → 1 (default value)
 - Modern Sonic Hurdle Jump/short hop parameters unique to Generations adjusted, based directly on default values:
   - rise velocity - 1.2 → 0.9 (reduced by 25%);
