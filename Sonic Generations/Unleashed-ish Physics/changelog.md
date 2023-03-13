@@ -27,8 +27,8 @@
   - Jump- and Homing Attack-related params set to be same as they are in 2D outside water;
   - "PadInputForceCoeffInAir" - 0.6 → 1 (default value)
 - Modern Sonic Hurdle Jump/short hop parameters unique to Generations adjusted, based directly on default values:
-  - rise velocity - 1.2 → 0.9 (reduced by 25%);
-  - height limit - 12 → 9 (reduced by 25%);
+  - rise velocity - 12 → 9 (reduced by 25%);
+  - height limit - 1.2 → 0.9 (reduced by 25%);
   - flying time - 0.4 → 0.1 (reduced by 75%);
   - fall velocity - 9.2 → 2.3 (reduced by 75%)
 - Classic Sonic Spin Attack rebound set back to Generations final value (17.5 → 14.7)
