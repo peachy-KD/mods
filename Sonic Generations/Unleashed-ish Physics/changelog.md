@@ -24,36 +24,36 @@
 - set Boost multipliers at Lv0 back to original Unleashed/Generations values (1.5 3D, 1.6 2D → 1.4 3D, 1.5 2D)
 
 ## Unleashed Style Physics v1.9.4b
-- set Classic Super Sonic Accel back to Generations final value (25 → 10)
+- Classic Sonic - Super Sonic acceleration set back to Generations final value (25 → 10)
 
 ## Unleashed Style Physics v1.9.4
-- Classic Sonic slope stand ability set to Generations value (60 → 10) (fixes an issue where Sonic can clip into the wall in one path on Seaside Hill 1)
+- Classic Sonic - slope stand ability set to Generations value (60 → 10) (fixes an issue where Sonic can clip into the wall in one path on Seaside Hill 1)
 - underwater physics adjusted:
   - gravity scale - 0.27 → 0.65 (default value);
   - Jump- and Homing Attack-related params set to be same as they are in 2D outside water;
   - "PadInputForceCoeffInAir" - 0.6 → 1 (default value)
-- Modern Sonic Hurdle Jump/short hop parameters unique to Generations adjusted, based directly on default values:
+- Modern Sonic - Hurdle Jump/short hop parameters unique to Generations adjusted, based directly on default values:
   - rise velocity - 12 → 9 (reduced by 25%);
   - height limit - 1.2 → 0.9 (reduced by 25%);
   - flying time - 0.4 → 0.1 (reduced by 75%);
   - fall velocity - 9.2 → 2.3 (reduced by 75%)
-- Classic Sonic Spin Attack rebound set back to Generations final value (17.5 → 14.7)
+- Classic Sonic - Spin Attack rebound set back to Generations final value (17.5 → 14.7)
 - removed more redundant parameter settings
 - Classic Sonic - set more parameters to their Generations final values
 
 ## Unleashed Style Physics v1.9.3
 - Chaos Energy gain by Rings set to base Unleashed value (0.03 → 0.02)
-- Classic Sonic aerial handling adjusted for Metal Sonic fight
+- Classic Sonic - aerial handling adjusted for Metal Sonic fight
 
 ## Unleashed Style Physics v1.9.2
-- Fixed a White Space parameter not being set for Classic Sonic
-- Fixed one of Modern Sonic's parameters getting set to Classic Sonic's value
+- Classic Sonic - fixed a White Space parameter not getting set
+- Modern Sonic - fixed a parameter getting set to Classic Sonic's value
 
 ## Unleashed Style Physics v1.9.1
-- Classic Sonic handling based (mostly) on Generations final Classic Sonic (again)
+- Classic Sonic - handling based (mostly) on Generations final Classic Sonic (again)
 
 ## Unleashed Style Physics v1.9
-- Modern Sonic Hurdle Jump/short hop set approximately to Generations final values
+- Modern Sonic - Hurdle Jump/short hop set approximately to Generations final values
 - Egg Dragoon fight uses Generations final "WallJumpReady" settings
 - Removed all Unleashed Project-related files (would recommend going to the mod folder and deleting the "stages_unleashed" folder if it's still present)
-- Classic Sonic handling based on Unleashed Sonic
+- Classic Sonic - handling based on Unleashed Sonic
