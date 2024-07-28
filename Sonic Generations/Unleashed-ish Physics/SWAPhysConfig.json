@@ -37,7 +37,7 @@
             "DisplayName": "Sonic Generations",
             "Value": "stages",
             "Description": [
-               "Load settings recommended for use with the original game. This setting also addresses a glitch that can occur in Crisis City Act 2.",
+               "Load stage files recommended for use with the original game. This setting also addresses a glitch that can occur in Crisis City Act 2.",
             ]
          },
 
@@ -45,7 +45,7 @@
             "DisplayName": "Unleashed Project",
             "Value": "stages_unleashed",
             "Description": [
-               "Load settings recommended for use with the Unleashed Project.",
+               "Load stage files recommended for use with the Unleashed Project.",
             ]
          },
 
