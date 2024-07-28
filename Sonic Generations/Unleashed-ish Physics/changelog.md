@@ -1,3 +1,9 @@
+## Unleashed Style Physics v1.9.7
+- Adjusted mod to use appended archive support that was introduced in HMM 7.11 (filesize is reduced and potential compatibility with other mods is increased)
+- Unleashed Project support re-implemented. The following changes were made:
+  - removed most physics overrides for Sonic
+  - Bobsleigh/Board in Cool Edge depletes less Chaos Energy when Boosting (33.6 → 18)
+
 ## Unleashed Style Physics v1.9.6
 - set "RingDropAdditionalNum" back to default value (0 → 10)
 - Modern Sonic - set "DriftFinishVelocity" back to default value (0 → 20)
