@@ -9,7 +9,7 @@
                "Name": "IncludeDir0",
                "DisplayName": "Stage Physics Overrides",
                "Description": [
-                  "In certain levels, missions, and bosses in the original game and the Unleashed Project, settings for Sonic's base physics are changed within the level. Adjust this option according to whether you are playing the original game or the Unleashed Project to allow Sonic to handle more consistently across all of these cases. Or, set it to 'none' if you are not playing either of those (for example, a different stage mod).",
+                  "In certain levels, missions, and bosses in the original game and the Unleashed Project, settings for Sonic's base physics have overrides placed within the stage. Adjust this option according to whether you are playing the original game or the Unleashed Project to remove redundant overrides, allowing Sonic to handle more consistently across all of these cases. Or, set it to 'none' if you are not playing either of those (for example, a different stage mod).",
                ],
                "Type": "StageOptions",
                "DefaultValue": "stages"
@@ -37,7 +37,7 @@
             "DisplayName": "Sonic Generations",
             "Value": "stages",
             "Description": [
-               "Load settings recommended for use with the original game.",
+               "Load settings recommended for use with the original game. This setting also addresses a glitch that can occur in Crisis City Act 2.",
             ]
          },
 
