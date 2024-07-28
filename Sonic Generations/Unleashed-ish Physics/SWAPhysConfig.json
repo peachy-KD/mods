@@ -7,9 +7,9 @@
  
             {
                "Name": "IncludeDir0",
-               "DisplayName": "Modified Generations Stage Files",
+               "DisplayName": "Stage Physics Overrides",
                "Description": [
-                  "Select whether or not to load a set of modified stage files. These files will allow Sonic to handle more consistently during certain missions/bosses in the standard game, and provide a fix for a glitch in Crisis City Act 2.",
+                  "In certain levels, missions, and bosses in the original game and the Unleashed Project, settings for Sonic's base physics are changed within the level. Adjust this option according to whether you are playing the original game or the Unleashed Project to allow Sonic to handle more consistently across all of these cases. Or, set it to 'none' if you are not playing either of those (for example, a different stage mod).",
                ],
                "Type": "StageOptions",
                "DefaultValue": "stages"
@@ -34,18 +34,26 @@
       "StageOptions": [
 
          {
-            "DisplayName": "Enabled",
+            "DisplayName": "Sonic Generations",
             "Value": "stages",
             "Description": [
-               "Load the modified stage files. This option is recommended for use with the standard game's levels/missions/bosses.",
+               "Load settings recommended for use with the original game.",
             ]
          },
 
          {
-            "DisplayName": "Disabled",
+            "DisplayName": "Unleashed Project",
+            "Value": "stages_unleashed",
+            "Description": [
+               "Load settings recommended for use with the Unleashed Project.",
+            ]
+         },
+
+         {
+            "DisplayName": "none",
             "Value": "dummy",
             "Description": [
-               "Load no modified stage files. This option is recommended for use with most stage mods.",
+               "Load no extra overrides.",
             ]
          },
 
