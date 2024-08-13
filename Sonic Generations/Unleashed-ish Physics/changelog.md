@@ -1,7 +1,7 @@
 ## Unleashed Style Physics v1.9.7a
 - Rounding adjustments
   - Sonic no longer gets stuck on Egg Dragoon walls
-- removed some unnecessary files from the zip download
+- removed some unnecessary files
 
 ## Unleashed Style Physics v1.9.7
 - Adjusted mod to use appended archive support that was introduced in HMM 7.11 (filesize is reduced and potential compatibility with other mods is increased)
