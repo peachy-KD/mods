@@ -1,10 +1,10 @@
 ## Unleashed Style Physics v1.9.7a
-- Rounding adjustments
+- rounding adjustments
   - Sonic no longer gets stuck on Egg Dragoon walls
 - removed some unnecessary files
 
 ## Unleashed Style Physics v1.9.7
-- Adjusted mod to use appended archive support that was introduced in HMM 7.11 (filesize is reduced and potential compatibility with other mods is increased)
+- adjusted mod to use appended archive support that was introduced in HMM 7.11 (filesize is reduced and potential compatibility with other mods is increased)
 - Unleashed Project support re-implemented. The following changes were made:
   - removed redundant physics overrides for Sonic
   - Bobsleigh/Board in Cool Edge depletes less Chaos Energy when Boosting (33.6 → 18)
@@ -60,5 +60,5 @@
 ## Unleashed Style Physics v1.9
 - Modern Sonic - Hurdle Jump/short hop set approximately to Generations final values
 - Egg Dragoon fight uses Generations final "WallJumpReady" settings
-- Removed all Unleashed Project-related files (would recommend going to the mod folder and deleting the "stages_unleashed" folder if it's still present)
+- removed all Unleashed Project-related files (would recommend going to the mod folder and deleting the "stages_unleashed" folder if it's still present)
 - Classic Sonic - handling based on Unleashed Sonic
