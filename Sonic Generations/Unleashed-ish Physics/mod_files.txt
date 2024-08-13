@@ -37,6 +37,7 @@ delete stages_unleashed/disk/bb2/#ssh200.arl
 delete stages_unleashed/disk/bb3/#SonicClassic.ar.00
 delete stages_unleashed/disk/bb3/#SonicClassic.arl
 delete configschema.json
+delete dummy/dummy.txt
 delete readme.txt
 delete physicsc/disk/bb3/#SonicClassic.ar.00
 delete physicsc/disk/bb3/#SonicClassic.arl
@@ -55,7 +56,6 @@ delete stages/disk/bb2/#bsl.arl
 delete stages/disk/bb2/#csc200.ar.00
 delete stages/disk/bb2/#csc200.arl
 
-add dummy/dummy.txt
 add physicsc/disk/bb3/+#SonicClassic.ar.00
 add physicsc/disk/bb3/+#SonicClassic.arl
 add physicsm/disk/bb3/+#Sonic.ar.00
