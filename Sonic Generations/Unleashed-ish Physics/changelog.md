@@ -1,6 +1,6 @@
 ## Unleashed Style Physics v1.9.7b
 - Modern Sonic - "DriftFinishVelocity" changed (20 → 0)
-- UP Cool Edge bobsleigh/board behavior reverted
+- UP Cool Edge bobsleigh/board handling reverted to original
 
 ## Unleashed Style Physics v1.9.7a
 - rounding adjustments for certain parameters
