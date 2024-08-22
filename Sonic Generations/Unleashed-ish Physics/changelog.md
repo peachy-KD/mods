@@ -1,3 +1,7 @@
+## Unleashed Style Physics v1.9.7b
+- Modern Sonic - "DriftFinishVelocity" changed (20 → 0)
+- UP Cool Edge bobsleigh/board behavior reverted
+
 ## Unleashed Style Physics v1.9.7a
 - rounding adjustments for certain parameters
   - Sonic no longer gets stuck on Egg Dragoon walls
@@ -11,7 +15,6 @@
 
 ## Unleashed Style Physics v1.9.6
 - set "RingDropAdditionalNum" back to default value (0 → 10)
-- Modern Sonic - set "DriftFinishVelocity" back to default value (0 → 20)
 - Classic Sonic - air decel rate decreased slightly (1 → 0.86), air brake rate increased slightly (0.7 → 1.08)
 - Modern Sonic - Drift 'low speed' mode while boarding effectively disabled
 - other adjustments
