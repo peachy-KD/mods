@@ -89,3 +89,4 @@ add stages_unleashed/disk/bb2/+#ssh200.arl
 add SWAPhysConfig.json
 add mod.ini
 add about.txt
+add about2.txt
