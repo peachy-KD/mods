@@ -1,8 +1,9 @@
+## Unleashed Style Physics v1.9.7c-0
+- Classic and Modern Sonic's modified physics can now be toggled off
+I expect this to be the last small update like this for a while unless I missed something! Thank you again for all the support!
+
 ## Unleashed Style Physics v1.9.7c
 - Modern Sonic - reverted "DriftFinishVelocity" back to default (0 → 20) (leaving this Generations-specific parameter alone actually seemed to be more accurate [or at least handle slightly more smoothly], oops!)
-
-I expect this to be the last small update like this for a while unless I missed something! Thank you again for all the support! <br>
-EDIT - I realized I did miss something! Nothing to do with the actual modded content, just a suggestion to adjust the structure of the options a bit. I will work on this :)
 
 ## Unleashed Style Physics v1.9.7b
 - Modern Sonic - "DriftFinishVelocity" nullified (20 → 0)
