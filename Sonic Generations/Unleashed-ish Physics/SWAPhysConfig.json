@@ -17,14 +17,23 @@
 
             {
                "Name": "IncludeDir1",
-               "DisplayName": "Homing Attack Button (Modern Sonic)",
+               "DisplayName": "Modern Physics Settings",
                "Description": [
-                  "Select whether Modern Sonic will have the Homing Attack mapped to the Boost button or the Jump button.",
+                  "Select whether Modern Sonic will use the altered physics of this mod or not.",
                ],
-               "Type": "HomingOptions",
+               "Type": "SonicOptions",
                "DefaultValue": "physicsm"
             },
 
+            {
+               "Name": "IncludeDir2",
+               "DisplayName": "Classic Physics Settings",
+               "Description": [
+                  "Select whether Classic Sonic will use the slightly altered physics of this mod or not.",
+               ],
+               "Type": "ClassicOptions",
+               "DefaultValue": "physicsc"
+            },
          ]
       }
    ],
@@ -50,7 +59,7 @@
          },
 
          {
-            "DisplayName": "none",
+            "DisplayName": "None",
             "Value": "dummy",
             "Description": [
                "Load no modified stage files.",
@@ -59,21 +68,49 @@
 
       ],
 
-      "HomingOptions": [
+      "SonicOptions": [
          
          {
-            "DisplayName": "Boost",
+            "DisplayName": "Unleashed w/Homing Attack on Boost",
             "Value": "physicsm",
             "Description": [
-               "Map the Homing Attack to the Boost button.",
+               "Use Unleashed style physics with the Homing Attack mapped to the Boost button.",
             ]
          },
 
          {
-            "DisplayName": "Jump",
+            "DisplayName": "Unleashed w/Homing Attack on Jump",
             "Value": "physicsm_abh",
             "Description": [
-               "Map the Homing Attack to the Jump button.",
+               "Use Unleashed style physics with the Homing Attack mapped to the Jump button.",
+            ]
+         },
+
+         {
+            "DisplayName": "None",
+            "Value": "dummy",
+            "Description": [
+               "Load no physics settings from this mod for Modern Sonic.",
+            ]
+         },
+
+      ],
+
+      "ClassicOptions": [
+         
+         {
+            "DisplayName": "Modified",
+            "Value": "physicsc",
+            "Description": [
+               "Enable the slightly altered Classic Sonic physics.",
+            ]
+         },
+
+         {
+            "DisplayName": "None",
+            "Value": "dummy",
+            "Description": [
+               "Load no physics settings from this mod for Classic Sonic.",
             ]
          },
 
