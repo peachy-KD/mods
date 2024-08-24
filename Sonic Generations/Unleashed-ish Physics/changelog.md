@@ -1,6 +1,6 @@
 ## Unleashed Style Physics v1.9.7c-0
 - Classic and Modern Sonic's modified physics can now be toggled off
-- elaborated more on Classic's changes in the "about2" .txt file<br>
+- elaborated more on Classic's changes in the "about2" .txt file
 
 I expect this to be the last small update like this for a while unless I missed something! Thank you all again for all the support!
 
