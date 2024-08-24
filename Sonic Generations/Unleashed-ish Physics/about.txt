@@ -6,7 +6,7 @@ If another mod contains the files "disk/bb3/#Sonic.ar.00" or "disk/bb3/#SonicCla
 This mod features:
 
 - close control to Sonic in Unleashed, including increased acceleration, wider drift turning, less air drag when Air Boosting, etc.;
-- play in all Generations missions and bosses without reverting to original physics (most noticeable with Silver and Egg Dragoon);
+- play in all Generations missions and bosses without reverting to original physics settings (most noticeable with Silver and Egg Dragoon);
 - a fix for a glitch in Crisis City 2 that could softlock the player;
 - choice of Homing Attack button between Jump and Boost for Modern Sonic
 
