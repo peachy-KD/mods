@@ -6,6 +6,7 @@ I expect this to be the last small update like this for a while unless I missed 
 
 ## Unleashed Style Physics v1.9.7c
 - Modern Sonic - reverted "DriftFinishVelocity" back to default (0 → 20) (leaving this Generations-specific parameter alone actually seemed to be more accurate [or at least handle slightly more smoothly], oops!)
+- Classic Sonic - small adjustments
 
 ## Unleashed Style Physics v1.9.7b
 - Modern Sonic - "DriftFinishVelocity" nullified (20 → 0)
