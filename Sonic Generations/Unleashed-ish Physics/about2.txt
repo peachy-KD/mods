@@ -1,0 +1,16 @@
+Some other adjustments to both characters include:
+- Underwater timer adjusted
+- Super Sonic depletes rings at a rate of 1 per second when not using Floating Boost
+- Super Sonic jumps higher
+
+For Classic Sonic, the following additional adjustments were made:
+- Spin Attacking / Spin Dashing decelerates slower
+- Spin Dashing when on a steep incline is faster
+- Spin Attack rebound when falling quickly is higher
+- Pink Spikes and High-Speed Shoes are faster
+- Super Sonic accelerates faster
+- Jump Dash travels farther
+- Max air speed slightly increased
+- Air acceleration/deceleration adjustments
+
+For several of these adjustments, they were set back to what they are by default in the .exe - most of these parameters do not exist in Unleashed. For Classic Sonic's air speed and Jump Dash changes, they were adjusted to be more consistent with what was available in Unleashed's physics settings. You can turn either Sonic's modded physics off in the HMM "Configure Mod" menu.
