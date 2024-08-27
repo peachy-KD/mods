@@ -1,5 +1,5 @@
 ## Unleashed Style Physics v1.9.7c-1
-- Skills (Acceleration, Speed Up) have an effect
+- Skills (Acceleration, Speed Up) that previously did not have an effect with this mod have one now
 - C.Sonic small fixes / tweaks
 
 ## Unleashed Style Physics v1.9.7c-0
