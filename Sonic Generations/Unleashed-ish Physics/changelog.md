@@ -1,6 +1,6 @@
 ## Unleashed Style Physics v1.9.7c-1
 - Skills (Acceleration, Speed Up) have an effect
-- C.Sonic fixes
+- C.Sonic small fixes / tweaks
 
 ## Unleashed Style Physics v1.9.7c-0
 - Classic and Modern Sonic's modified physics can now be toggled off
