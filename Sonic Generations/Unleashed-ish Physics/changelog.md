@@ -1,6 +1,5 @@
-## Unleashed Style Physics v1.9.7c-1
-- Skills (Acceleration, Speed Up) that previously did not have an effect with this mod have one now
-- C.Sonic small fixes / tweaks
+## Unleashed Style Physics v1.9.7d
+- Modern Sonic - new config option added to use a variation on Generations physics settings. Handling will be similar to the original game, but with tweaks similar to the ones made to Classic Sonic in this mod.
 
 ## Unleashed Style Physics v1.9.7c-0
 - Classic and Modern Sonic's modified physics can now be toggled off
