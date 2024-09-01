@@ -1,5 +1,5 @@
 ## Unleashed Style Physics v1.9.7d
-- Modern Sonic - new config option added to use a variation on Generations physics settings. Handling will be similar to the original game, but with tweaks similar to the ones made to Classic Sonic in this mod (e.g. longer Jump Dash, slightly less friction, air acceleration adjustments).
+- Modern Sonic - new config option added to use a variation on Generations physics settings; handling will be similar to the original game, but with tweaks similar to the ones made to Classic Sonic for this mod (e.g. longer Jump Dash, slightly less friction, air acceleration adjustments, etc.)
 
 ## Unleashed Style Physics v1.9.7c-0
 - Classic and Modern Sonic's modified physics can now be toggled off
