@@ -89,6 +89,14 @@
       ],
 
       "SonicOptions": [
+
+         {
+            "DisplayName": "Unleashed + Homing Attack on Jump",
+            "Value": "physicsm_abh",
+            "Description": [
+               "Use Unleashed physics settings with the Homing Attack mapped to the Jump button.",
+            ]
+         },
          
          {
             "DisplayName": "Unleashed + Homing Attack on Boost",
@@ -99,10 +107,10 @@
          },
 
          {
-            "DisplayName": "Unleashed + Homing Attack on Jump",
-            "Value": "physicsm_abh",
+            "DisplayName": "Generations (Alt.) + Homing Attack on Jump",
+            "Value": "physicsm_alt_abh",
             "Description": [
-               "Use Unleashed physics settings with the Homing Attack mapped to the Jump button.",
+               "Use altered Generations physics settings with the Homing Attack mapped to the Jump button.",
             ]
          },
 
@@ -111,14 +119,6 @@
             "Value": "physicsm_alt",
             "Description": [
                "Use altered Generations physics settings with the Homing Attack mapped to the Boost button.",
-            ]
-         },
-
-         {
-            "DisplayName": "Generations (Alt.) + Homing Attack on Jump",
-            "Value": "physicsm_alt_abh",
-            "Description": [
-               "Use altered Generations physics settings with the Homing Attack mapped to the Jump button.",
             ]
          },
 		 
