@@ -15,7 +15,6 @@
 
 ## Unleashed Style Physics v1.9.7a
 - rounding adjustments for certain parameters
-  - Sonic no longer gets stuck on Egg Dragoon walls
 - removed some unnecessary files
 
 ## Unleashed Style Physics v1.9.7
