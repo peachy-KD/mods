@@ -90,3 +90,7 @@ add SWAPhysConfig.json
 add mod.ini
 add about.txt
 add about2.txt
+add physicsm_alt/disk/bb3/+#Sonic.ar.00
+add physicsm_alt/disk/bb3/+#Sonic.arl
+add physicsm_alt_abh/disk/bb3/+#Sonic.ar.00
+add physicsm_alt_abh/disk/bb3/+#Sonic.arl
