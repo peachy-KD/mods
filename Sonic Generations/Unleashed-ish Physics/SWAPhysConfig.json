@@ -7,7 +7,7 @@
  
             {
                "Name": "IncludeDir0",
-               "DisplayName": "Stage Physics Overrides",
+               "DisplayName": "Stage Overrides",
                "Description": [
                   "In certain stages in the original game and the Unleashed Project, settings for Sonic's physics have overrides. Adjust this option according to whether you are playing the original game or the Unleashed Project to remove redundant overrides, allowing Sonic to handle more consistently. Or, set it to 'none' if you are not playing either of those (for example, a different stage mod).",
                ],
@@ -16,23 +16,23 @@
             },
 
             {
-               "Name": "IncludeDir1",
-               "DisplayName": "Modern Physics Settings",
-               "Description": [
-                  "Select whether Modern Sonic will use the altered physics of this mod or not.",
-               ],
-               "Type": "SonicOptions",
-               "DefaultValue": "physicsm"
-            },
-
-            {
                "Name": "IncludeDir2",
-               "DisplayName": "Classic Physics Settings",
+               "DisplayName": "Classic Physics",
                "Description": [
-                  "Select whether Classic Sonic will use the slightly altered physics of this mod or not.",
+                  "Adjust Classic Sonic's physics. The 'Modified' setting is a variation on the Generations physics that only adjusts parameters that make handling closer to Unleashed (except for certain Generations-specific things that would sort of break otherwise, and some other tweaks).",
                ],
                "Type": "ClassicOptions",
                "DefaultValue": "physicsc"
+            },
+
+            {
+               "Name": "IncludeDir1",
+               "DisplayName": "Modern Physics",
+               "Description": [
+                  "Adjust Modern Sonic's physics and Homing Attack button. 'Generations (Alt.)' adjusts Modern Sonic's physics from the original game in a similar way to Classic Sonic's 'Modified' setting.",
+               ],
+               "Type": "SonicOptions",
+               "DefaultValue": "physicsm"
             },
          ]
       }
@@ -43,18 +43,18 @@
       "StageOptions": [
 
          {
-            "DisplayName": "Sonic Generations",
-            "Value": "stages",
+            "DisplayName": "Unleashed Project",
+            "Value": "stages_unleashed",
             "Description": [
-               "Load stage files recommended for use with the original game. This setting also addresses a glitch that can occur in Crisis City Act 2.",
+               "Recommended for use with the Unleashed Project.",
             ]
          },
 
          {
-            "DisplayName": "Unleashed Project",
-            "Value": "stages_unleashed",
+            "DisplayName": "Sonic Generations",
+            "Value": "stages",
             "Description": [
-               "Load stage files recommended for use with the Unleashed Project.",
+               "Recommended for use with the original game. This setting also addresses a glitch that can occur in Crisis City Act 2.",
             ]
          },
 
@@ -68,49 +68,65 @@
 
       ],
 
-      "SonicOptions": [
-         
-         {
-            "DisplayName": "Unleashed w/Homing Attack on Boost",
-            "Value": "physicsm",
-            "Description": [
-               "Use Unleashed style physics with the Homing Attack mapped to the Boost button.",
-            ]
-         },
-
-         {
-            "DisplayName": "Unleashed w/Homing Attack on Jump",
-            "Value": "physicsm_abh",
-            "Description": [
-               "Use Unleashed style physics with the Homing Attack mapped to the Jump button.",
-            ]
-         },
-
-         {
-            "DisplayName": "None",
-            "Value": "dummy",
-            "Description": [
-               "Load no physics settings from this mod for Modern Sonic.",
-            ]
-         },
-
-      ],
-
       "ClassicOptions": [
          
          {
             "DisplayName": "Modified",
             "Value": "physicsc",
             "Description": [
-               "Enable the slightly altered Classic Sonic physics.",
+               "Use the mod's Classic Sonic physics. Handling will be similar to the original game with some differences like rolling lasting longer and the Jump Dash traveling further.",
             ]
          },
 
          {
-            "DisplayName": "None",
+            "DisplayName": "Original",
             "Value": "dummy",
             "Description": [
-               "Load no physics settings from this mod for Classic Sonic.",
+               "Use the original game's physics for Classic Sonic.",
+            ]
+         },
+
+      ],
+
+      "SonicOptions": [
+         
+         {
+            "DisplayName": "Unleashed + Homing Attack on Boost",
+            "Value": "physicsm",
+            "Description": [
+               "Use Unleashed physics settings with the Homing Attack mapped to the Boost button.",
+            ]
+         },
+
+         {
+            "DisplayName": "Unleashed + Homing Attack on Jump",
+            "Value": "physicsm_abh",
+            "Description": [
+               "Use Unleashed physics settings with the Homing Attack mapped to the Jump button.",
+            ]
+         },
+
+         {
+            "DisplayName": "Generations (Alt.) + Homing Attack on Boost",
+            "Value": "physicsm_alt",
+            "Description": [
+               "Use altered Generations physics settings with the Homing Attack mapped to the Boost button.",
+            ]
+         },
+
+         {
+            "DisplayName": "Generations (Alt) + Homing Attack on Jump",
+            "Value": "physicsm_alt_abh",
+            "Description": [
+               "Use altered Generations physics settings with the Homing Attack mapped to the Jump button.",
+            ]
+         },
+		 
+         {
+            "DisplayName": "Original",
+            "Value": "dummy",
+            "Description": [
+               "Use the original game's physics for Modern Sonic.",
             ]
          },
 

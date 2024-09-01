@@ -1,18 +1,20 @@
 An attempt to bring some Unleashed styled handling to Generations!
 
-Before playing, be sure to configure this mod in HedgeModManager!
 If another mod contains the files "disk/bb3/#Sonic.ar.00" or "disk/bb3/#SonicClassic.ar.00", this mod may not work correctly unless set higher in HMM.
+Be sure to use the "Configure Mod" menu in HMM before playing.
 
 This mod features:
 
 - close control to Sonic in Unleashed, including increased acceleration, wider drift turning, less air drag when Air Boosting, etc.;
+- choice of Homing Attack button between Jump and Boost for Modern Sonic;
 - play in all Generations missions and bosses without reverting to original physics settings (most noticeable with Silver and Egg Dragoon);
-- a fix for a glitch in Crisis City 2 that could softlock the player;
-- choice of Homing Attack button between Jump and Boost for Modern Sonic
+- a fix for a glitch in Crisis City 2 that could softlock the player.
 
 Some notes for if the Homing Attack is set to the Boost button:
 
 - Control tutorials will still show the Homing Attack as "A + A".
 - You cannot use a Homing Attack on Perfect Chaos if you are launched from a spring in a 2D section. However, landing at the bottom of Perfect Chaos will still allow you to attack as you usually would in 3D.
 - During the diving section in the Egg Dragoon fight, the Jump button must be used to Homing Attack the boss. The Boost button dives faster as usual.
-- You cannot initiate Modern Super Sonic's Floating Boost while in mid-air. He will instead do a standard Air Boost.
+- You cannot initiate Modern Super Sonic's Floating Boost while in mid-air. He will instead Air Boost or Jump Dash.
+
+See "about2" for more details on other changes in this mod and to Classic Sonic.
