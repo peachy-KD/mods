@@ -19,7 +19,7 @@
                "Name": "IncludeDir2",
                "DisplayName": "Classic Physics",
                "Description": [
-                  "Adjust Classic Sonic's physics. The 'Modified' setting is a variation on the Generations physics that only adjusts parameters that make handling closer to Unleashed (except for certain Generations-specific things that would sort of break otherwise, and some other tweaks).",
+                  "Adjust Classic Sonic's physics. The 'Modified' setting is a variation on the Generations physics that only adjusts parameters that make handling closer to Unleashed (except for certain Generations-specific things that would sort of break otherwise), along with some other tweaks.",
                ],
                "Type": "ClassicOptions",
                "DefaultValue": "physicsc"
