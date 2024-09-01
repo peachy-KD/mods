@@ -115,7 +115,7 @@
          },
 
          {
-            "DisplayName": "Generations (Alt) + Homing Attack on Jump",
+            "DisplayName": "Generations (Alt.) + Homing Attack on Jump",
             "Value": "physicsm_alt_abh",
             "Description": [
                "Use altered Generations physics settings with the Homing Attack mapped to the Jump button.",
