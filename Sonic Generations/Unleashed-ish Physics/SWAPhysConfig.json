@@ -19,7 +19,7 @@
                "Name": "IncludeDir2",
                "DisplayName": "Classic Physics",
                "Description": [
-                  "Adjust Classic Sonic's physics. The 'Modified' setting is a variation on the Generations physics that only adjusts parameters that make handling closer to Unleashed (except for certain Generations-specific settings that would sort of break otherwise), along with some other tweaks.",
+                  "Adjust Classic Sonic's physics settings. The 'Alternate' setting is a variation on the Generations settings that only adjusts parameters that make handling closer to Unleashed (except for certain Generations-specific settings that would sort of break otherwise), along with some other tweaks.",
                ],
                "Type": "ClassicOptions",
                "DefaultValue": "physicsc"
@@ -29,7 +29,7 @@
                "Name": "IncludeDir1",
                "DisplayName": "Modern Physics",
                "Description": [
-                  "Adjust Modern Sonic's physics and Homing Attack button. 'Generations (Alt.)' adjusts Modern Sonic's physics from the original game in a similar way to Classic Sonic's 'Modified' setting.",
+                  "Adjust Modern Sonic's physics settings and Homing Attack button. 'Alternate' adjusts Modern Sonic's settings from Sonic Generations in a similar way to Classic Sonic's 'Alternate' setting.",
                ],
                "Type": "SonicOptions",
                "DefaultValue": "physicsm"
@@ -71,10 +71,10 @@
       "ClassicOptions": [
          
          {
-            "DisplayName": "Modified",
+            "DisplayName": "Alternate",
             "Value": "physicsc",
             "Description": [
-               "Use the mod's Classic Sonic physics. Handling will be similar to the original game with some differences like rolling lasting longer and the Jump Dash traveling further.",
+               "Use the mod's Classic Sonic physics settings. Handling will be similar to the original game with some differences like rolling lasting longer and the Jump Dash traveling further.",
             ]
          },
 
@@ -82,7 +82,7 @@
             "DisplayName": "Original",
             "Value": "dummy",
             "Description": [
-               "Use the original game's physics for Classic Sonic.",
+               "Use the original game's physics settings for Classic Sonic.",
             ]
          },
 
@@ -91,7 +91,7 @@
       "SonicOptions": [
 
          {
-            "DisplayName": "Unleashed + Homing Attack on Jump",
+            "DisplayName": "Unleashed w/Homing Attack on Jump",
             "Value": "physicsm_abh",
             "Description": [
                "Use Unleashed physics settings with the Homing Attack mapped to the Jump button.",
@@ -99,7 +99,7 @@
          },
          
          {
-            "DisplayName": "Unleashed + Homing Attack on Boost",
+            "DisplayName": "Unleashed w/Homing Attack on Boost",
             "Value": "physicsm",
             "Description": [
                "Use Unleashed physics settings with the Homing Attack mapped to the Boost button.",
@@ -107,7 +107,7 @@
          },
 
          {
-            "DisplayName": "Generations (Alt.) + Homing Attack on Jump",
+            "DisplayName": "Alternate w/Homing Attack on Jump",
             "Value": "physicsm_alt_abh",
             "Description": [
                "Use altered Generations physics settings with the Homing Attack mapped to the Jump button.",
@@ -115,7 +115,7 @@
          },
 
          {
-            "DisplayName": "Generations (Alt.) + Homing Attack on Boost",
+            "DisplayName": "Alternate w/Homing Attack on Boost",
             "Value": "physicsm_alt",
             "Description": [
                "Use altered Generations physics settings with the Homing Attack mapped to the Boost button.",
