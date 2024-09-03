@@ -1,6 +1,7 @@
 ## Unleashed Style Physics v1.9.7d-0
 - Modern Sonic - fixed Light Speed Dash speed for "Alternate" physics setting (3D speed set to same as 2D like in Unleashed)
 - Modern Sonic - fixed 3D Homing Attack air drag for "Alternate" setting (3.6 → 1)
+- misc - Modern Sonic - power-ups (High Speed, Invincible) have correct timing
 
 ## Unleashed Style Physics v1.9.7d
 - Modern Sonic - new config option added to use a variation on Generations physics settings; when enabled, handling will be similar to the original game, but with tweaks similar to the ones made to Classic Sonic for this mod (e.g. longer Jump Dash, slightly less friction, air acceleration adjustments, etc.)
