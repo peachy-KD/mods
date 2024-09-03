@@ -9,7 +9,7 @@ For Classic Sonic, the following additional adjustments were made:
 - Spin Dashing when on a steep incline is faster
 - Spin Attack rebound when falling quickly is higher
 - Jump Dash travels farther
-- Max air speed slightly increased
+- Max air speed when jumping slightly increased
 - Air acceleration/deceleration adjustments
 
 For several of these adjustments, they were set back to what they are by default in the .exe - most of these parameters do not exist in Unleashed. For Classic Sonic's air speed and Jump Dash changes, they were adjusted to be more consistent with what was available in Unleashed's physics settings. You can turn either Sonic's modded physics off in the HMM "Configure Mod" menu.
