@@ -4,7 +4,7 @@
 - (misc) Modern Sonic - power-ups (High Speed, Invincible) have correct timing
 
 ## Unleashed Style Physics v1.9.7d
-- Modern Sonic - new config option added to use a variation on Generations physics settings; when enabled, handling will be similar to the original game, but with tweaks similar to the ones made to Classic Sonic for this mod (e.g. longer Jump Dash, slightly less friction, air acceleration adjustments, etc.). Basically, like with Classic Sonic, the concept is, "what if you put this physics file into Unleashed?" (tho again, the air acceleration is adjusted a bit because it would be kinda bad otherwise)
+- Modern Sonic - new config option added to use a variation on Generations physics settings; when enabled, handling will be similar to the original game, but with tweaks similar to the ones made to Classic Sonic for this mod (e.g. longer Jump Dash, slightly less friction, air acceleration adjustments, etc.). Basically, like with Classic Sonic, the concept is, "what if you put this physics file into Unleashed?" (tho again, the air acceleration is adjusted a bit because it would be kinda off otherwise)
 
 ## Unleashed Style Physics v1.9.7c-0
 - Classic and Modern Sonic's modified physics can now be toggled off
