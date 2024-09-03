@@ -1,4 +1,4 @@
-## ## Unleashed Style Physics v1.9.7d-0
+## Unleashed Style Physics v1.9.7d-0
 - Modern Sonic - fixed Light Speed Dash speed for "Alternate" physics setting (3D speed set to same as 2D like in Unleashed)
 - Modern Sonic - fixed 3D Homing Attack air drag for "Alternate" setting (3.6 → 1)
 
