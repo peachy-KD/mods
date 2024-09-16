@@ -126,7 +126,7 @@
             "DisplayName": "Original",
             "Value": "dummy",
             "Description": [
-               "Use the original game's physics for Modern Sonic.",
+               "Use the original game's physics settings for Modern Sonic.",
             ]
          },
 
