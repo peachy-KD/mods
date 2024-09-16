@@ -1,12 +1,12 @@
 ## Unleashed Style Physics v1.9.8
 - Modern Sonic - Hurdle Jump is less floaty
- - Velocity - 9 → 10
- - LimitHeight - 0.9 → 0.8
- - FallVelocity - 2.3 → 5
+  - Velocity - 9 → 10
+  - LimitHeight - 0.9 → 0.8
+  - FallVelocity - 2.3 → 5
 - Classic Sonic - set air acceleration values to same as they are in final game's "low speed" mode - controls closer to standard Gens now (& less sensitive than in recent versions)
- - AccelRate - 3 → 2.5
- - DecelRate - 0.3 → 0.53
- - BrakeRate - 0.6 → 0.82
+  - AccelRate - 3 → 2.5
+  - DecelRate - 0.3 → 0.53
+  - BrakeRate - 0.6 → 0.82
 
 ## Unleashed Style Physics v1.9.7d0
 - Modern Sonic - fixed Light Speed Dash speed for "Alternate" physics setting (3D speed set to same as 2D like in Unleashed)
@@ -26,7 +26,7 @@
 
 ## Unleashed Style Physics v1.9.7b
 - Modern Sonic - "DriftFinishVelocity" nullified (20 → 0)
-- Unleashed Project Cool Edge bobsleigh/board handling reverted to original UP release's
+- Unleashed Project Cool Edge bobsleigh handling reverted to original UP release's
 
 ## Unleashed Style Physics v1.9.7a
 - rounding adjustments for certain parameters
@@ -36,7 +36,7 @@
 - adjusted mod to use appended archive support that was introduced in HMM 7.11 (filesize is reduced and potential compatibility with other mods is increased)
 - Unleashed Project support re-implemented. The following changes were made:
   - removed redundant physics overrides for Sonic
-  - Bobsleigh/Board in Cool Edge depletes less Chaos Energy when Boosting (33.6 → 18)
+  - Bobsleigh in Cool Edge depletes less Chaos Energy when Boosting (33.6 → 18)
 
 ## Unleashed Style Physics v1.9.6
 - set "RingDropAdditionalNum" back to default value (0 → 10)
