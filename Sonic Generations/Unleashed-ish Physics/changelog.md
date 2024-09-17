@@ -3,7 +3,7 @@
   - Velocity - 9 → 10
   - LimitHeight - 0.9 → 0.8
   - FallVelocity - 2.3 → 5
-- Classic Sonic - set air acceleration values to same as they are in final game's "low speed" mode - controls closer to standard Gens now & less sensitive than in recent versions of this mod
+- Classic Sonic - set air acceleration values to same as they are in final game's "low speed" mode - controls closer to vanilla now & less sensitive than in recent versions of this mod
   - AccelRate - 3 → 2.5
   - DecelRate - 0.3 → 0.53
   - BrakeRate - 0.6 → 0.82
