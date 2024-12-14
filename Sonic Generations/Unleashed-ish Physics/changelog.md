@@ -36,7 +36,7 @@
 - adjusted mod to use appended archive support that was introduced in HMM 7.11 (filesize is reduced and potential compatibility with other mods is increased)
 - Unleashed Project support re-implemented. The following changes were made:
   - removed redundant physics overrides for Sonic
-  - Bobsleigh in Cool Edge depletes less Chaos Energy when Boosting (33.6 → 18)
+  - Bobsleigh in Cool Edge depletes less Ring Energy when Boosting (33.6 → 18)
 
 ## Unleashed Style Physics v1.9.6
 - set "RingDropAdditionalNum" back to default value (0 → 10)
@@ -53,11 +53,8 @@
 - removed more overrides for Sonic during Egg Dragoon and Silver boss fights
 - removed unnecessary/redundant files (White Space overrides, Seaside Hill M5 overrides)
 
-## Unleashed Style Physics v1.9.4c
-- set Boost multipliers at Lv0 back to original Unleashed/Generations values (1.5 3D, 1.6 2D → 1.4 3D, 1.5 2D)
-
 ## Unleashed Style Physics v1.9.4b
-- Classic Sonic - Super Sonic acceleration set back to Generations final value (25 → 10)
+- set Boost multipliers at Lv0 back to original Unleashed/Generations values (1.5 3D, 1.6 2D → 1.4 3D, 1.5 2D)
 
 ## Unleashed Style Physics v1.9.4
 - Classic Sonic - slope stand ability set to Generations value (60 → 10) (fixes an issue where Sonic can clip into the wall in one path on Seaside Hill 1)
@@ -87,6 +84,4 @@
 
 ## Unleashed Style Physics v1.9
 - Modern Sonic - Hurdle Jump/short hop set approximately to Generations final values
-- Egg Dragoon fight uses Generations final "WallJumpReady" settings
-- removed all Unleashed Project-related files (would recommend going to the mod folder and deleting the "stages_unleashed" folder if it's still present)
 - Classic Sonic - handling based on Unleashed Sonic
