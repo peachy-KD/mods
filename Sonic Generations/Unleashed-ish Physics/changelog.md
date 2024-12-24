@@ -3,7 +3,7 @@
   - Super Sonic 2D "MaxVelocityBasis": 145 → 60.0997
 - Classic Sonic: High Speed Shoes & Pink Spikes use default handling values
   - acceleration using High Speed: +4 → +25
-  - acceleration on Spikes: 5.3 → 7
+  - acceleration using Spikes: 5.3 → 7
   - Spikes max speed relative to standard: 65% → 100%
 - [misc] re-organized and re-worded settings
 
