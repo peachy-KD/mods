@@ -1,6 +1,6 @@
 ## Unleashed Style Physics v1.9.9
 - Boost gain by rings slightly increased to accomodate for what seems like a multiplier in Unleashed
- - (0.02 → 0.03)
+  - (0.02 → 0.03)
 - Alternate Modern physics: added a Super Sonic speed param that was accidentally missed before
   - Super Sonic 2D base speed: 145 → 60.0997
 - Classic Sonic: High Speed, Pink Spikes use default handling values
