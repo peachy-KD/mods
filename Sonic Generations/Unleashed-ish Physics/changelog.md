@@ -1,3 +1,13 @@
+## Unleashed Style Physics v1.9.9
+- Boost gain by rings slightly increased (0.02 → 0.03)
+- Alternate Modern physics: added a Super Sonic speed param that was accidentally missed before
+  - MaxVelocityBasisSps (2D): 145 → 60.0997
+- Classic Sonic: High Speed, Pink Spikes use default handling values
+  - acceleration using High Speed: +4 → +25
+  - acceleration on Spikes: 5.3 → 7
+  - Spikes max speed relative to standard: 65% → 100%
+- (misc) re-organized and re-worded settings
+
 ## Unleashed Style Physics v1.9.8
 - Modern Sonic - Hurdle Jump is less floaty
   - Velocity - 9 → 10
@@ -8,35 +18,15 @@
   - DecelRate - 0.3 → 0.53
   - BrakeRate - 0.6 → 0.82
 
-## Unleashed Style Physics v1.9.7d0
-- Modern Sonic - fixed Light Speed Dash speed for "Alternate" physics setting (3D speed set to same as 2D like in Unleashed)
-- Modern Sonic - fixed 3D Homing Attack air drag for "Alternate" setting (3.6 → 1)
-- (misc) Modern Sonic - power-ups (High Speed, Invincible) have correct duration
-
-## Unleashed Style Physics v1.9.7d
-- Modern Sonic - new config option added to use a variation on Generations physics settings; when enabled, handling will be similar to the original game, but with tweaks similar to the ones made to Classic Sonic for this mod (e.g. longer Jump Dash, slightly less friction, air acceleration adjustments, etc.). Basically, like with Classic Sonic, the concept is "what if you used this physics file in Unleashed?"
-
-## Unleashed Style Physics v1.9.7c-0
-- Classic and Modern Sonic's modified physics can now be toggled off
-- (misc) elaborated more on Classic's changes in this mod in "about2.txt"
-
-## Unleashed Style Physics v1.9.7c
-- Modern Sonic - reverted "DriftFinishVelocity" back to default (0 → 20) (leaving this Generations-specific parameter alone actually seemed to be more accurate [or at least handle slightly more smoothly], oops!)
-- Classic Sonic - small adjustments
-
-## Unleashed Style Physics v1.9.7b
-- Modern Sonic - "DriftFinishVelocity" nullified (20 → 0)
-- Unleashed Project Cool Edge bobsleigh handling reverted to original UP release's
-
-## Unleashed Style Physics v1.9.7a
-- rounding adjustments for certain parameters
-- removed some unnecessary files
-
 ## Unleashed Style Physics v1.9.7
 - adjusted mod to use appended archive support that was introduced in HMM 7.11 (filesize is reduced and potential compatibility with other mods is increased)
 - Unleashed Project support re-implemented. The following changes were made:
   - removed redundant physics overrides for Sonic
   - Bobsleigh in Cool Edge depletes less Ring Energy when Boosting (33.6 → 18)
+- Classic and Modern Sonic's modified physics can now be toggled off
+- Modern Sonic - new config option added to use a variation on Generations physics settings; when enabled, handling will be similar to the original game, but with tweaks similar to the ones made to Classic Sonic for this mod (e.g. longer Jump Dash, slightly less friction, air acceleration adjustments, etc.). Basically, like with Classic Sonic, the concept is "what if you used this physics file in Unleashed?"
+- (misc) elaborated more on Classic's changes in this mod in "about2.txt"
+- (misc) Modern Sonic - power-ups (High Speed, Invincible) have correct duration
 
 ## Unleashed Style Physics v1.9.6
 - set "RingDropAdditionalNum" back to default value (0 → 10)
@@ -52,9 +42,6 @@
 - Classic Sonic - air brake rate slightly decreased (1 → 0.7)
 - removed more overrides for Sonic during Egg Dragoon and Silver boss fights
 - removed unnecessary/redundant files (White Space overrides, Seaside Hill M5 overrides)
-
-## Unleashed Style Physics v1.9.4b
-- set Boost multipliers at Lv0 back to original Unleashed/Generations values (1.5 3D, 1.6 2D → 1.4 3D, 1.5 2D)
 
 ## Unleashed Style Physics v1.9.4
 - Classic Sonic - slope stand ability set to Generations value (60 → 10) (fixes an issue where Sonic can clip into the wall in one path on Seaside Hill 1)
@@ -72,7 +59,7 @@
 - Classic Sonic - set more parameters to their Generations final values
 
 ## Unleashed Style Physics v1.9.3
-- Chaos Energy gain by Rings set to base Unleashed value (0.03 → 0.02)
+- Boost gain by Rings set to base Unleashed value (0.04 → 0.02)
 - Classic Sonic - aerial handling adjusted for Metal Sonic fight
 
 ## Unleashed Style Physics v1.9.2
