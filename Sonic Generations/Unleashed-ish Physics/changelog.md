@@ -1,7 +1,7 @@
 ## Unleashed Style Physics v1.9.9
 - alternate Modern physics: added a Super Sonic speed param that was accidentally missed before
   - Super Sonic 2D "MaxVelocityBasis": 145 → 60.0997
-- Classic Sonic: High Speed, Pink Spikes use default handling values
+- Classic Sonic: High Speed Shoes & Pink Spikes use default handling values
   - acceleration using High Speed: +4 → +25
   - acceleration on Spikes: 5.3 → 7
   - Spikes max speed relative to standard: 65% → 100%
