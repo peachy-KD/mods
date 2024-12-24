@@ -1,15 +1,17 @@
-Some other adjustments to both characters include:
-- Underwater timer adjusted
-- Underwater gravity and jump physics adjusted
+Some other adjustments include:
+- acceleration when using High Speed Shoes is faster
+- underwater timer uses demo/prototype settings (the "5" of the countdown displays correctly)
+- underwater gravity and jump physics adjusted
+- Modern Sonic - Rocket Wisp charge time uses demo/prototype settings (timing is similar to Sonic Colors)
 - Super Sonic depletes rings at a rate of 1 per second when not using Floating Boost
-- Super Sonic jumps higher
+- when using Floating Boost, Modern Super Sonic depletes rings at a rate of 1 per 0.6 second (this is what it is set to for Classic Super Sonic in the vanilla game, but Classic can't do this action)
 
 For Classic Sonic, the following additional adjustments were made:
-- Spin Attacking / Spin Dashing decelerates slower
-- Spin Dashing when on a steep incline is faster
-- Spin Attack rebound when falling quickly is higher
+- deceleration when Spinning is lower
+- sliding (sphere) Spin Dash is faster
+- sliding Spin Dash has less friction
+- Spin Jump rebound when falling quickly is higher
 - Jump Dash travels farther
-- Max air speed when jumping slightly increased
-- Air acceleration/deceleration adjustments
+- maximum air speed when jumping is slightly increased
 
-For several of these adjustments, they were set back to what they are by default in the .exe - most of these parameters do not exist in Unleashed. For Classic Sonic's air speed and Jump Dash changes, they were adjusted to be more consistent with what was available in Unleashed's physics settings. You can turn either Sonic's modded physics off in the HMM "Configure Mod" menu.
+Most of these parameters were introduced in Sonic Generations, and the settings were changed to what they are by default in the .exe for a slightly different experience. Classic Sonic's air speed and Jump Dash changes were adjusted to be more consistent with what was available in Sonic Unleashed's physics settings. You can turn either Sonic's modded physics off by using the HMM "Configure Mod" menu.
