@@ -14,4 +14,4 @@ For Classic Sonic, the following additional adjustments were made:
 - Jump Dash travels farther
 - maximum air speed when jumping is slightly increased
 
-Most of these parameters were introduced in Sonic Generations, and the settings were changed to what they are by default in the .exe for a slightly different experience. Classic Sonic's air speed and Jump Dash changes were adjusted to be more consistent with what was available in Sonic Unleashed's physics settings. You can turn either Sonic's modded physics off by using the HMM "Configure Mod" menu.
+Most of these parameters were introduced in Sonic Generations, and the settings were changed to what they are by default in the executable for a slightly different experience. Classic Sonic's air speed and Jump Dash were adjusted to be more consistent with what was available in Sonic Unleashed's physics settings. You can turn either Sonic's modded physics off by using the HMM "Configure Mod" menu.
