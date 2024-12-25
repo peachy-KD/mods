@@ -55,7 +55,7 @@
 - Classic Sonic: set more parameters to their Generations final values
 
 ## Unleashed Style Physics v1.9.3
-- Boost gain by Rings set to base Unleashed value (0.04 → 0.02)
+- Ring Energy increase set to base Unleashed value (0.04 → 0.02)
 - Classic Sonic: aerial handling adjusted for Metal Sonic fight
 
 ## Unleashed Style Physics v1.9.2
