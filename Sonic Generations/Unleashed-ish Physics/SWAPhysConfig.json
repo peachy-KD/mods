@@ -4,7 +4,7 @@
             "Name": "Main",
             "DisplayName": "Options",
             "Elements": [
- 
+
                 {
                     "Name": "IncludeDir0",
                     "DisplayName": "Stage Overrides",
@@ -37,11 +37,9 @@
             ]
         }
     ],
-    
+
     "Enums": {
-
         "StageOptions": [
-
             {
                 "DisplayName": "Unleashed Project",
                 "Value": "stages_unleashed",
@@ -65,11 +63,9 @@
                     "Load no modified stage files.",
                 ]
             },
-
         ],
 
         "ClassicOptions": [
-            
             {
                 "DisplayName": "Alternate",
                 "Value": "physicsc",
@@ -85,11 +81,9 @@
                     "Use the standard game's complete physics settings or settings from another mod.",
                 ]
             },
-
         ],
 
         "SonicOptions": [
-
             {
                 "DisplayName": "Unleashed w/Homing Attack on Boost",
                 "Value": "physicsm",
@@ -107,21 +101,21 @@
             },
 
             {
-                "DisplayName": "Alternate w/Homing Attack on Jump",
-                "Value": "physicsm_alt_abh",
-                "Description": [
-                    "Use modified Generations physics settings with the Homing Attack mapped to the Jump button. Handling will be similar to the standard game with some differences like less air drag while Air Boosting.",
-                ]
-            },
-			            
-            {
-                "DisplayName": "Alternate w/Homing Attack on Boost",
+                "DisplayName": "Prototype w/Homing Attack on Boost",
                 "Value": "physicsm_alt",
                 "Description": [
-                    "Use modified Generations physics settings with the Homing Attack mapped to the Boost button. Handling will be similar to the standard game with some differences like less air drag while Air Boosting.",
+                    "Use physics settings based on the Unleashed Preview Build with the Homing Attack mapped to the Boost button. Some differences include a higher jump, faster Wall Jump, and slower Light Speed Dash.",
                 ]
             },
-		 
+
+            {
+                "DisplayName": "Prototype w/Homing Attack on Jump",
+                "Value": "physicsm_alt_abh",
+                "Description": [
+                    "Use physics settings based on the Unleashed Preview Build with the Homing Attack mapped to the Jump button. Some differences include a higher jump, faster Wall Jump, and slower Light Speed Dash.",
+                ]
+            },
+
             {
                 "DisplayName": "N/A",
                 "Value": "dummy",
@@ -129,9 +123,7 @@
                     "Use the standard game's complete physics settings or settings from another mod.",
                 ]
             },
-
         ],
-
     },
   "IniFile": "mod.ini"
 }
