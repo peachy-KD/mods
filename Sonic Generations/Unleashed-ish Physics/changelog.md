@@ -1,3 +1,16 @@
+## Unleashed Style Physics v1.9.9a
+- Modern Sonic: swapped the "alternate" Generations physics for a take on the Unleashed Preview Build (select "Prototype" in the options to use this set); some changes include:
+  - higher jump in 3D (17 → 18) and 2D (17 → 19)
+  - higher air acceleration & deceleration rates in 2D (accel. 1.2 → 2, decel. 0.2 → 1)
+  - slower forward Drift acceleration (2 → 1.2)
+  - slower Light Speed Dash (min. speed 50 → 30, max. 80 → 60)
+  - Ring Energy depletes slightly more at first (4 → 5), but slightly less over time (6 → 5)
+  - Drifting generates very slightly more Ring Energy (7 → ~7.5)
+  - Air Boost drops faster (gravity rate 0.5 → 1, levitation time 1 → 0.1)
+  - Wall Jump is faster (front force 15 → 21.4), but requires more effort to start (border -8 → -15)
+  - Boost loses less speed when steering (80 → 10)
+- Modern Sonic: hurdle jump velocity increased (10 → 12 [default])
+ 
 ## Unleashed Style Physics v1.9.9
 - alternate Modern physics: added a Super Sonic speed param that was accidentally missed before
   - Super Sonic 2D "MaxVelocityBasis": 145 → 60.0997
@@ -25,7 +38,6 @@
 - Classic and Modern Sonic's modified physics can now be toggled off
 - Modern Sonic: new config option "Alternate" added to use a variation on Generations physics settings; when enabled, handling will be similar to the original game, but with tweaks similar to the ones made to Classic Sonic for this mod (e.g. longer Jump Dash, slightly less friction, air acceleration adjustments, etc.). Basically, like with Classic Sonic, the concept is "what if you used this physics file in Unleashed?"
 - [misc] elaborated more on Classic's changes in this mod in "about2.txt"
-- [misc] Modern Sonic: power-ups (High Speed, Invincible) have correct duration
 
 ## Unleashed Style Physics v1.9.6
 - set "RingDropAdditionalNum" back to default value (0 → 10)
