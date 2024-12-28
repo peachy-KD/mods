@@ -4,7 +4,7 @@
   - higher air acceleration & deceleration rates in 2D (accel. 1.2 → 2, decel. 0.2 → 1)
   - slower forward Drift acceleration (2 → 1.2)
   - slower Light Speed Dash (min. speed 50 → 30, max. 80 → 60)
-  - Ring Energy depletes slightly more at first (4 → 5), but slightly less over time (6 → 5)
+  - when Boosting, Ring Energy depletes slightly more at first (4 → 5), but slightly less over time (6 → 5)
   - Drifting generates very slightly more Ring Energy (7 → ~7.5)
   - Air Boost drops faster (gravity rate 0.5 → 1, levitation time 1 → 0.1)
   - Wall Jump is faster (front force 15 → 21.4), but requires more effort to start (border -8 → -15)
