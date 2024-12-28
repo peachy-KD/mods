@@ -8,7 +8,7 @@
   - Drifting generates very slightly more Ring Energy (7 → ~7.5)
   - Air Boost drops faster (gravity rate 0.5 → 1, levitation time 1 → 0.1)
   - Wall Jump is faster (front force 15 → 21.4), but requires more effort to start (border -8 → -15)
-  - Boost loses less speed when steering (80 → 10)
+  - Boost steers easier (side decrease force 80 → 10)
 - Modern Sonic: hurdle jump velocity increased (10 → 12 [default])
  
 ## Unleashed Style Physics v1.9.9
