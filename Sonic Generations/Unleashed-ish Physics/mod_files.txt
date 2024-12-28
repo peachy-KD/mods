@@ -94,3 +94,7 @@ add physicsm_alt/disk/bb3/+#Sonic.ar.00
 add physicsm_alt/disk/bb3/+#Sonic.arl
 add physicsm_alt_abh/disk/bb3/+#Sonic.ar.00
 add physicsm_alt_abh/disk/bb3/+#Sonic.arl
+add stages/disk/bb2/+#pam000.ar.00
+add stages/disk/bb2/+#pam000.arl
+add stages_unleashed/disk/bb2/+#pam000.ar.00
+add stages_unleashed/disk/bb2/+#pam000.arl
