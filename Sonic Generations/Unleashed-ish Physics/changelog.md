@@ -1,5 +1,5 @@
 ## Unleashed Style Physics v1.9.9a
-- Modern Sonic: swapped the "alternate" Generations physics for a take on the Unleashed Preview Build (select "Prototype" in the options to use this set); some changes include:
+- Modern Sonic: swapped the "alternate" Generations physics for a take on the Unleashed Preview Build's (select "Prototype" in the options to use this set); some changes include:
   - higher jump (3D 17 → 18, 2D 17 → 19)
   - higher air acceleration & deceleration rates in 2D (accel. 1.2 → 2, decel. 0.2 → 1)
   - slower forward Drift acceleration (2 → 1.2)
