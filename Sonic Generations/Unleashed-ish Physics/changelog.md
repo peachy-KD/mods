@@ -6,7 +6,7 @@
   - jump height limit: 0.8 → 1.2 (.exe default)
   - fall velocity: 5 → 5.3
 - [misc] Modern Sonic alt: corrected underwater jump height (17 → 19)
-- [misc] internally stated more of the physics settings, may be useful if you would like to edit them
+- [misc] internally stated more of the physics settings; may be useful if you would like to edit them
 
 Hope you have a great 2025!
 
