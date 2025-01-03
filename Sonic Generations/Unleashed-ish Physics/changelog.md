@@ -49,7 +49,7 @@ Hope you have a great 2025!
   - removed redundant physics overrides for Sonic
   - Bobsleigh in Cool Edge depletes less Ring Energy when Boosting (33.6 → 18)
 - Classic and Modern Sonic's modified physics can now be toggled off
-- Modern Sonic: new config option "Alternate" added to use a variation on Generations physics settings; when enabled, handling will be similar to the original game, but with tweaks similar to the ones made to Classic Sonic for this mod (e.g. longer Jump Dash, slightly less friction, air acceleration adjustments, etc.). Basically, like with Classic Sonic, the concept is "what if you used this physics file in Unleashed?"
+- Modern Sonic: new config option "Alternate" added to use a variation on Generations physics settings
 - [misc] elaborated more on Classic's changes in this mod in "about2.txt"
 
 ## Unleashed Style Physics v1.9.6
