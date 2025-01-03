@@ -104,7 +104,7 @@
                 "DisplayName": "Prototype w/Homing Attack on Boost",
                 "Value": "physicsm_alt",
                 "Description": [
-                    "Use physics settings based on the Unleashed Preview Build with the Homing Attack mapped to the Boost button. Some differences include a higher jump, faster Wall Jump, and slower Light Speed Dash. Level design may not function as intended with these settings.",
+                    "Use physics settings partially based on the Unleashed Preview Build with the Homing Attack mapped to the Boost button. Some differences include a higher jump, faster Wall Jump, and slower Light Speed Dash. Level design may not function as intended with these settings.",
                 ]
             },
 
@@ -112,7 +112,7 @@
                 "DisplayName": "Prototype w/Homing Attack on Jump",
                 "Value": "physicsm_alt_abh",
                 "Description": [
-                    "Use physics settings based on the Unleashed Preview Build with the Homing Attack mapped to the Jump button. Some differences include a higher jump, faster Wall Jump, and slower Light Speed Dash. Level design may not function as intended with these settings.",
+                    "Use physics settings partially based on the Unleashed Preview Build with the Homing Attack mapped to the Jump button. Some differences include a higher jump, faster Wall Jump, and slower Light Speed Dash. Level design may not function as intended with these settings.",
                 ]
             },
 

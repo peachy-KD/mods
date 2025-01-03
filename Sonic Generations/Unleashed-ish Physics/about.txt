@@ -1,4 +1,4 @@
-An attempt to bring some Unleashed styled handling to Generations!
+An attempt to bring some Sonic Unleashed styled handling to Sonic Generations!
 
 If another mod contains the files "disk/bb3/#Sonic.ar.00" or "disk/bb3/#SonicClassic.ar.00", this mod may not work correctly unless set higher in HMM.
 Be sure to use the "Configure Mod" menu in HMM before playing.
@@ -9,6 +9,8 @@ This mod features:
 - choice of Homing Attack button between Boost and Jump for Modern Sonic;
 - play in all Generations missions and bosses without reverting to original physics settings (most noticeable with Silver and Egg Dragoon);
 - a fix for a glitch in Crisis City 2 that could softlock the player.
+
+You can also use handling partially based on the Preview Build, a prototype of Sonic Unleashed. Note that you may encounter more issues when playing stages with this setting.
 
 Some notes for if the Homing Attack is set to the Boost button:
 

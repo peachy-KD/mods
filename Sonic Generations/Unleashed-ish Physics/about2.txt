@@ -1,10 +1,11 @@
 Some other adjustments include:
 - acceleration when using High Speed Shoes is faster
 - underwater timer uses demo/prototype settings (the "5" of the countdown displays correctly, similarly to other Sonic games)
-- underwater gravity and jump physics adjusted
-- Modern Sonic - Rocket Wisp charge time uses demo/prototype settings (timing is somewhat similar to Sonic Colors)
+- underwater gravity and jump handling adjusted
+- Modern Sonic - Rocket Wisp charge/launch time uses demo/prototype settings (timing is somewhat similar to Sonic Colors)
 - Super Sonic depletes rings at a rate of 1 per second when not using Floating Boost
 - when using Floating Boost, Modern Super Sonic depletes rings at a rate of 1 per 0.6 second (this is what it is set to for Classic Super Sonic in the final game, but Classic can't do this action)
+- when using Floating Boost, Modern Super Sonic has more control (again, these settings reflect what it is set to for Classic)
 
 For Classic Sonic, the following additional adjustments were made:
 - deceleration when Spinning is lower
