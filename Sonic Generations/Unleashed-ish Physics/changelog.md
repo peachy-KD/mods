@@ -1,5 +1,5 @@
 ## Unleashed Style Physics v1.9.9c
-- corrected directory listings
+- corrected directory listing
 - Modern Sonic: Hurdle Jump edited again, should appear smoother and less choppy than previous verions:
   - flying time: 0.1 → 0.01
   - jump velocity: 12 → 8.1
