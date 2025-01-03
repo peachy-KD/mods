@@ -47,7 +47,7 @@ Hope you have a great 2025!
 - adjusted mod to use appended archive support that was introduced in HMM 7.11 (filesize is reduced and potential compatibility with other mods is increased)
 - Unleashed Project support re-implemented. The following changes were made:
   - removed redundant physics overrides for Sonic
-  - Bobsleigh in Cool Edge depletes less Ring Energy when Boosting (33.6 → 18)
+  - Bobsleigh in Cool Edge depletes less Ring Energy when Boosting (33.6 → 15)
 - Classic and Modern Sonic's modified physics can now be toggled off
 - Modern Sonic: new config option "Alternate" added to use a variation on Generations physics settings
 - [misc] elaborated more on Classic's changes in this mod in "about2.txt"
