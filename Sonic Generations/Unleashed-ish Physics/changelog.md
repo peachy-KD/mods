@@ -1,3 +1,14 @@
+## Unleashed Style Physics v1.9.9c
+- Modern Sonic: Hurdle Jump edited again, should appear smoother:
+  - flying time: 0.1 → 0.01
+  - jump velocity: 12 → 8.1
+  - jump height limit: 0.8 → 1.2 (.exe default)
+  - fall velocity: 5 → 5.3
+- [misc] corrected directory listings
+- [misc] internally stated more of the physics settings, may be useful if you would like to edit them
+
+sidenote, just talking through thoughts on this update - I actually (finally) feel happy with the hurdle jump (fast short hop) settings with this one! Most of the settings for this move in Generations are new (i.e. are not in Unleashed or at least not easily editable) & there isn't a way to disable them without the jump being way too short, so there was a lot of side-by-side testing involved to get it to look correct. I ultimately landed on something that is loosely based on the .exe settings and should appear less choppy than previous versions. Anyway - hope you enjoy this version & have a great 2025!
+
 ## Unleashed Style Physics v1.9.9a
 - Modern Sonic: swapped the "alternate" Generations physics for a take on the Unleashed Preview Build's (select "Prototype" in the options to use this set); some changes include:
   - higher jump (3D 17 → 18, 2D 17 → 19)
@@ -9,12 +20,13 @@
   - Air Boost drops faster (gravity rate 0.5 → 1, levitation time 1 → 0.1)
   - Wall Jump is faster (front force 15 → 21.4), but requires more speed to start (border -8 → -15)
   - Boost steers easier (side decrease force 80 → 10)
-- Modern Sonic: hurdle jump velocity increased (10 → 12 [default])
+  - Boost and Stomping are "stronger" (Boost strength 200 → 5000, Stomping 200 → 1000). I don't know what this does
+- Modern Sonic: hurdle jump velocity increased (10 → 12 [.exe default])
  
 ## Unleashed Style Physics v1.9.9
 - alternate Modern physics: added a Super Sonic speed param that was accidentally missed before
   - Super Sonic 2D "MaxVelocityBasis": 145 → 60.0997
-- Classic Sonic: High Speed Shoes & Pink Spikes use default handling values
+- Classic Sonic: High Speed Shoes & Pink Spikes use .exe default handling values
   - acceleration using High Speed: +4 → +25
   - acceleration using Spikes: 5.3 → 7
   - Spikes max speed relative to standard: 65% → 100%
@@ -40,7 +52,7 @@
 - [misc] elaborated more on Classic's changes in this mod in "about2.txt"
 
 ## Unleashed Style Physics v1.9.6
-- set "RingDropAdditionalNum" back to default value (0 → 10)
+- set "RingDropAdditionalNum" back to .exe default value (0 → 10)
 - Classic Sonic: air decel rate decreased slightly (1 → 0.86), air brake rate increased slightly (0.7 → 1.08)
 - Modern Sonic: Drift 'low speed' mode while boarding effectively disabled
 - other adjustments
@@ -54,10 +66,10 @@
 ## Unleashed Style Physics v1.9.4
 - Classic Sonic: slope stand ability set to Generations value (60 → 10) (fixes an issue where Sonic can clip into the wall in one path on Seaside Hill 1)
 - underwater physics adjusted:
-  - gravity scale: 0.27 → 0.65 (default value);
+  - gravity scale: 0.27 → 0.65 (.exe default value);
   - Jump- and Homing Attack-related params set to be same as they are in 2D outside water;
-  - "PadInputForceCoeffInAir": 0.6 → 1 (default value)
-- Modern Sonic: Hurdle Jump/short hop parameters unique to Generations adjusted, based directly on default values:
+  - "PadInputForceCoeffInAir": 0.6 → 1 (.exe default value)
+- Modern Sonic: Hurdle Jump/short hop parameters unique to Generations adjusted, based directly on .exe default values:
   - rise velocity: 12 → 9 (reduced by 25%);
   - height limit: 1.2 → 0.9 (reduced by 25%);
   - flying time: 0.4 → 0.1 (reduced by 75%);
