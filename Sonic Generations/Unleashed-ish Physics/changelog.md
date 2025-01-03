@@ -1,13 +1,12 @@
 ## Unleashed Style Physics v1.9.9c
-- Modern Sonic: Hurdle Jump edited again, should appear smoother:
+- corrected directory listings
+- Modern Sonic: Hurdle Jump edited again, should appear smoother and less choppy than previous verions:
   - flying time: 0.1 → 0.01
   - jump velocity: 12 → 8.1
   - jump height limit: 0.8 → 1.2 (.exe default)
   - fall velocity: 5 → 5.3
-- [misc] corrected directory listings
 - [misc] internally stated more of the physics settings, may be useful if you would like to edit them
-
-*sidenote (just talking through thoughts on this update) - I actually (finally) feel happy with the hurdle jump (fast short hop) settings with this one! Most of the settings for this move in Generations are new (i.e. are not in Unleashed or at least not easily editable) & there isn't a way to disable them without the jump being way too short, so there was a lot of side-by-side testing involved to get it to look correct. I ultimately landed on something that is loosely based on the .exe settings and should appear less choppy than previous versions. Anyway - hope you enjoy this version & have a great 2025!
+Hope you have a great 2025!
 
 ## Unleashed Style Physics v1.9.9a
 - Modern Sonic: swapped the "alternate" Generations physics for a take on the Unleashed Preview Build's (select "Prototype" in the options to use this set); some changes include:
