@@ -10,7 +10,7 @@ This mod features:
 - play in all Generations missions and bosses without reverting to original physics settings (most noticeable with Silver and Egg Dragoon);
 - a fix for a glitch in Crisis City 2 that could softlock the player.
 
-You can also use handling partially based on the Preview Build, a prototype of Sonic Unleashed. Note that you may encounter more issues when playing stages with this setting.
+You can also use handling partially based on the Preview Build, a prototype of Sonic Unleashed. Note that you may encounter issues when playing stages with this setting.
 
 Some notes for if the Homing Attack is set to the Boost button:
 
