@@ -7,7 +7,6 @@
   - fall velocity: 5 → 5.3
 - Classic Sonic: air max speed reduced (12 → 9)
 - [misc] Modern Sonic prototype physics: corrected underwater jump height (17 → 19)
-- [misc] internally stated more of the physics settings; may be useful if you would like to edit them
 
 Hope you have a great 2025!
 
