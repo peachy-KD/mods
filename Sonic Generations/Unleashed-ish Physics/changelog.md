@@ -30,7 +30,7 @@ Hope you have a great 2025!
 - Classic Sonic: High Speed Shoes & Pink Spikes use .exe default handling values
   - acceleration using High Speed: +4 → +25
   - acceleration using Spikes: 5.3 → 7
-  - Spikes max speed relative to standard: 65% → 100%
+  - Spikes max speed coefficient: 65% → 100%
 - [misc] re-organized and re-worded settings
 
 ## Unleashed Style Physics v1.9.8
