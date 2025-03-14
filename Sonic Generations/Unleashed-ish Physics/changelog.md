@@ -1,3 +1,12 @@
+## Unleashed Style Physics v2.0.0
+- more Hurdle Jump adjustments:
+  - flying time: 0.01 → 0.1
+  - jump velocity: 8.1 → 12 (.exe default)
+  - fall velocity: 5.3 → 6
+- removed Unleashed Project overrides
+- removed White Space overrides
+- Classic Sonic: reverted air speed values to vanilla
+
 ## Unleashed Style Physics v1.9.9c
 - corrected directory listing from the previous release
 - Modern Sonic: hurdle jump (fast short hop) edited again, should appear smoother than previous versions
