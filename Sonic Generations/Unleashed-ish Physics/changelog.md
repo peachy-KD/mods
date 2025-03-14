@@ -1,5 +1,5 @@
 ## Unleashed Style Physics v2.0.0
-- more Hurdle Jump adjustments:
+- Modern Sonic: Hurdle Jump:
   - flying time: 0.01 → 0.1
   - jump velocity: 8.1 → 12 (.exe default)
   - fall velocity: 5.3 → 6
