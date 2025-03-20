@@ -9,7 +9,7 @@
                     "Name": "IncludeDir0",
                     "DisplayName": "Stage Overrides",
                     "Description": [
-                        "In certain stages in Sonic Generations and the Unleashed Project, settings for Sonic's physics have overrides. Adjust this option according to whether you are playing the standard game or the Unleashed Project to remove redundant overrides, allowing Sonic to handle more consistently. Or, set it to 'N/A' if you are not playing either of those (for example, a different stage mod).",
+                        "In certain missions and bosses in Sonic Generations, settings for Sonic's physics have overrides. Enable this option if you are playing the standard game to remove redundant overrides, allowing Sonic to handle more consistently.",
                     ],
                     "Type": "StageOptions",
                     "DefaultValue": "stages"
@@ -41,23 +41,15 @@
     "Enums": {
         "StageOptions": [
             {
-                "DisplayName": "Unleashed Project",
-                "Value": "stages_unleashed",
-                "Description": [
-                    "Recommended for use with the Unleashed Project.",
-                ]
-            },
-
-            {
-                "DisplayName": "Sonic Generations",
+                "DisplayName": "Enabled",
                 "Value": "stages",
                 "Description": [
-                    "Recommended for use with the standard game. This setting also addresses a glitch that can occur in Crisis City Act 2.",
+                    "Load stage files recommended for use with the standard game. This setting also addresses a glitch that can occur in Crisis City Act 2.",
                 ]
             },
 
             {
-                "DisplayName": "N/A",
+                "DisplayName": "Disabled",
                 "Value": "dummy",
                 "Description": [
                     "Load no modified stage files.",
@@ -70,7 +62,7 @@
                 "DisplayName": "Alternate",
                 "Value": "physicsc",
                 "Description": [
-                    "Use this mod's Classic Sonic physics settings. Handling will be similar to standard Generations with some differences like Spinning lasting longer.",
+                    "Use this mod's Classic Sonic physics settings. Handling will have some differences like Spinning lasting longer.",
                 ]
             },
 
@@ -78,7 +70,7 @@
                 "DisplayName": "N/A",
                 "Value": "dummy",
                 "Description": [
-                    "Use the standard game's complete physics settings or settings from another mod.",
+                    "Use Sonic Generations's physics settings or settings from another mod.",
                 ]
             },
         ],
@@ -88,7 +80,7 @@
                 "DisplayName": "Unleashed w/Homing Attack on Boost",
                 "Value": "physicsm",
                 "Description": [
-                    "Use Unleashed physics settings with the Homing Attack mapped to the Boost button.",
+                    "Use Unleashed's physics settings with the Homing Attack mapped to the Boost button.",
                 ]
             },
 
@@ -96,23 +88,23 @@
                 "DisplayName": "Unleashed w/Homing Attack on Jump",
                 "Value": "physicsm_abh",
                 "Description": [
-                    "Use Unleashed physics settings with the Homing Attack mapped to the Jump button.",
+                    "Use Unleashed's physics settings with the Homing Attack mapped to the Jump button.",
                 ]
             },
 
             {
-                "DisplayName": "Prototype w/Homing Attack on Boost",
+                "DisplayName": "Preview Build w/Homing Attack on Boost",
                 "Value": "physicsm_alt",
                 "Description": [
-                    "Use physics settings partially based on the Unleashed Preview Build with the Homing Attack mapped to the Boost button. Some differences include a higher jump, faster Wall Jump, and slower Light Speed Dash. Level design may not function as intended with these settings.",
+                    "Use physics settings based on the Unleashed Preview Build with the Homing Attack mapped to the Boost button. Some differences include a higher jump, faster Wall Jump, and slower Light Speed Dash. Level design may not function as intended with these settings.",
                 ]
             },
 
             {
-                "DisplayName": "Prototype w/Homing Attack on Jump",
+                "DisplayName": "Preview Build w/Homing Attack on Jump",
                 "Value": "physicsm_alt_abh",
                 "Description": [
-                    "Use physics settings partially based on the Unleashed Preview Build with the Homing Attack mapped to the Jump button. Some differences include a higher jump, faster Wall Jump, and slower Light Speed Dash. Level design may not function as intended with these settings.",
+                    "Use physics settings based on the Unleashed Preview Build with the Homing Attack mapped to the Jump button. Some differences include a higher jump, faster Wall Jump, and slower Light Speed Dash. Level design may not function as intended with these settings.",
                 ]
             },
 
@@ -120,7 +112,7 @@
                 "DisplayName": "N/A",
                 "Value": "dummy",
                 "Description": [
-                    "Use the standard game's complete physics settings or settings from another mod.",
+                    "Use Sonic Generations's complete physics settings or settings from another mod.",
                 ]
             },
         ],
